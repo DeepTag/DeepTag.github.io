@@ -98,11 +98,9 @@ Wenbo Sun*, Meng Ye*, Yuan Zheng, Lele Zhao, Nan Liu, Yanqun Teng, Lan Lan, Jian
 # 💬 Invited Talks
 - *2025.02*, AI-Driven Correspondence Learning for Dynamic Heart Function Analysis Using MRI. Job talk, UTA.
 
-# 💻 Internships
+# 💻 Experience
 - *2023.06 - 2023.08*, Computer Vision Research Intern, UII America, Boston, MA.
 - *2021.06 - 2021.08*, Machine Learning Research Intern, Siemens Healthineers, Princeton, NJ.
-
-# 💻 Working Experience
 - *2018.08 - 2019.07*, Research Assistant, Peking University Cancer Hospital and Institute, Beijing, China.
 - *2017.12 - 2018.07*, Data Analyst, 12 Sigma Technologies, Shanghai, China.
 - *2016.07 - 2017.11*, MRI Pulse Sequence Design and Image Reconstruction Engineer, United Imaging Healthcare, Shanghai, China.
