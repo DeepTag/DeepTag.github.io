@@ -26,8 +26,8 @@ My research interests mainly focus on AI, computer vision, medical image analysi
 - Inverse problems solving with machine learning.
 - Cardiac MRI pulse sequences development.
 
-# 🔥 PhD Students Recruitment [[Flyer](https://drive.google.com/file/d/1B6w70RqPybizEp7-f9vJEU3mqpBzZi7A/view?usp=sharing)]
-I am looking for two self-motivated and talent PhD students to work on machine learning, computer vision and AI for healthcare applications. Students with a background in Computer Science, Biomedical Engineering (especially for MRI pulse sequences), Electrical Engineering, Automation, or related fields are welcome to drop me an email (meng.ye@rutgers.edu) with your CV and publications (if any). Please note I may not be able to respond to every message due to limited time. 
+# 🔥 PhD Students Recruitment 
+I am always looking for self-motivated and talent PhD students to work on machine learning, computer vision and AI for healthcare applications. Students with a background in Computer Science, Biomedical Engineering (especially for MRI pulse sequences), Electrical Engineering, Automation, or related fields are welcome to drop me an email (meng.ye@rutgers.edu) with your CV and publications (if any). Please note I may not be able to respond to every message due to limited time. [[Flyer](https://drive.google.com/file/d/1B6w70RqPybizEp7-f9vJEU3mqpBzZi7A/view?usp=sharing)]
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 I will be an Assistant Professor of Computer Science Engineering Department at The University of Texas at Arlington starting from September 2025. 
