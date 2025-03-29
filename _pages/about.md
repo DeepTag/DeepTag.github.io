@@ -21,10 +21,10 @@ I'm a final year PhD candidate at the Department of Computer Science, Rutgers Un
 
 My research interests mainly focus on AI, computer vision, medical image analysis and medical imaging. Current involved research projects are: 
 - Medical image analysis: image segmentation, image registration, image generation.
-- Cardiac MRI pulse sequences development.
 - 3D shape modeling and 4D dynamic analysis.
 - Low level computer vision tasks: image reconstruction, denosing, super resolution.
 - Inverse problems solving with machine learning.
+- Cardiac MRI pulse sequences development.
 
 # 🔥 PhD Students Recruitment 
 I am looking for two self-motivated and talent PhD students to work on machine learning, computer vision and AI for healthcare applications. Students with a background in Computer Science, Biomedical Engineering (especially for MRI pulse sequences), Electrical Engineering, Automation, or related fields are welcome to drop me an email (meng.ye@rutgers.edu) with your CV and publications (if any). Please note I may not be able to respond to every message due to limited time. 
