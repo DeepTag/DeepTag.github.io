@@ -37,17 +37,17 @@ Bangwei Guo, Meng Ye, Yunhe Gao, Bingyu Xin, Leon Axel, Dimitris N. Metaxas. In 
 [17] Learning Volumetric Neural Deformable Models to Recover 3D Regional Heart Wall Motion from Multi-Planar Tagged MRI. [Paper][Project page]
 Meng Ye, Bingyu Xin, Bangwei Guo, Leon Axel, Dimitris N. Metaxas. arXiv preprint, 2025.
 
-[16] Continuous Spatio-Temporal Memory Networks for 4D Cardiac Cine MRI Segmentation. [[Paper](https://arxiv.org/abs/2410.23191)][[Project page](https://github.com/DeepTag/CSTM)]
-Meng Ye, Bingyu Xin, Leon Axel, Dimitris N. Metaxas. In IEEE Winter Conference on Applications of Computer Vision (WACV), 2025.
+[16] Continuous Spatio-Temporal Memory Networks for 4D Cardiac Cine MRI Segmentation. 
+Meng Ye, Bingyu Xin, Leon Axel, Dimitris N. Metaxas. In IEEE Winter Conference on Applications of Computer Vision (WACV), 2025. [[Paper](https://arxiv.org/abs/2410.23191)][[Project page](https://github.com/DeepTag/CSTM)]
 
 [15] Rethinking Deep Unrolled Model for Accelerated MRI Reconstruction.
-Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas. In European Conference on Computer Vision (ECCV), 2024. (Oral) (Double winner solution of the CMRxRecon2024 challenge) [[Code](https://github.com/hellopipu/PromptMR-plus)]
+Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas. In European Conference on Computer Vision (ECCV), 2024. (Oral) (Double winner solution of the CMRxRecon2024 challenge) [[News](https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024)] [[Code](https://github.com/hellopipu/PromptMR-plus)]
 
 [14] Unsupervised Exemplar-Based Image-to-Image Translation and Cascaded Vision Transformers for Tagged and Untagged Cardiac Cine MRI Registration.
 Meng Ye, Mikael Kanski, Dong Yang, Leon Axel, Dimitris N. Metaxas. In IEEE Winter Conference on Applications of Computer Vision (WACV), 2024. [[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Ye_Unsupervised_Exemplar-Based_Image-to-Image_Translation_and_Cascaded_Vision_Transformers_for_Tagged_WACV_2024_paper.html)] [[Project page](https://github.com/DeepTag/ECaT)]
 
 [13] Fill the K-Space and Refine the Image: Prompting for Dynamic and Multi-Contrast MRI Reconstruction.
-Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas. In International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) Workshop STACOM, 2023. (Double winner solution of the CMRxRecon2023 challenge) [[Code](https://github.com/hellopipu/PromptMR)]
+Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas. In International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) Workshop STACOM, 2023. (Double winner solution of the CMRxRecon2023 challenge) [[News](https://www.cs.rutgers.edu/news-events/news/news-item/ph-d-students-bingyu-xin-and-meng-ye-awarded-two-accolades-at-miccai-conference)] [[Code](https://github.com/hellopipu/PromptMR)]
 
 [12] Neural Deformable Models for 3D Bi-Ventricular Heart Shape Reconstruction and Modeling from 2D Sparse Cardiac Magnetic Resonance Imaging.
 Meng Ye, Dong Yang, Mikael Kanski, Leon Axel, Dimitris N. Metaxas. In IEEE International Conference on Computer Vision (ICCV), 2023. [[Paper](https://arxiv.org/abs/2307.07693)] [[Project page](https://github.com/DeepTag/NeuralDeformableModels)]
