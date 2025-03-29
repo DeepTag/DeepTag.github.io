@@ -32,13 +32,14 @@ I am looking for multiple self-motivated PhD students to work on machine learnin
 
 # 📝 Publications 
 [18] VerSe: Integrating Multiple Queries as Prompts for Versatile Cardiac MRI Segmentation. 
+
 Bangwei Guo, Meng Ye, Yunhe Gao, Bingyu Xin, Leon Axel, Dimitris N. Metaxas. In Information Processing in Medical Imaging (IPMI), 2025. (Oral) [[Code](https://github.com/bangwayne/verse)]
 
 [17] Learning Volumetric Neural Deformable Models to Recover 3D Regional Heart Wall Motion from Multi-Planar Tagged MRI. [Paper][Project page]
 Meng Ye, Bingyu Xin, Bangwei Guo, Leon Axel, Dimitris N. Metaxas. arXiv preprint, 2025.
 
 [16] Continuous Spatio-Temporal Memory Networks for 4D Cardiac Cine MRI Segmentation. 
-Meng Ye, Bingyu Xin, Leon Axel, Dimitris N. Metaxas. In IEEE Winter Conference on Applications of Computer Vision (WACV), 2025. [[Paper](https://arxiv.org/abs/2410.23191)][[Project page](https://github.com/DeepTag/CSTM)]
+Meng Ye, Bingyu Xin, Leon Axel, Dimitris N. Metaxas. In IEEE Winter Conference on Applications of Computer Vision (WACV), 2025. [[Paper](https://arxiv.org/abs/2410.23191)] [[Project page](https://github.com/DeepTag/CSTM)]
 
 [15] Rethinking Deep Unrolled Model for Accelerated MRI Reconstruction.
 Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas. In European Conference on Computer Vision (ECCV), 2024. (Oral) (Double winner solution of the CMRxRecon2024 challenge) [[News](https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024)] [[Code](https://github.com/hellopipu/PromptMR-plus)]
