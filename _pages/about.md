@@ -38,7 +38,7 @@ Bangwei Guo, Meng Ye, Yunhe Gao, Bingyu Xin, Leon Axel, Dimitris N. Metaxas. In 
 Meng Ye, Bingyu Xin, Bangwei Guo, Leon Axel, Dimitris N. Metaxas. arXiv preprint, 2025. [[Paper](https://arxiv.org/abs/2411.15233)] 
  [[Project page](https://github.com/DeepTag/VolumetricNeuralDeformableModels)]
 
-[16] Continuous Spatio-Temporal Memory Networks for 4D Cardiac Cine MRI Segmentation.<br/>  
+[16] Continuous Spatio-Temporal Memory Networks for 4D Cardiac Cine MRI Segmentation.<br/>
 Meng Ye, Bingyu Xin, Leon Axel, Dimitris N. Metaxas. In IEEE Winter Conference on Applications of Computer Vision (WACV), 2025. [[Paper](https://arxiv.org/abs/2410.23191)] [[Project page](https://github.com/DeepTag/CSTM)]
 
 [15] Rethinking Deep Unrolled Model for Accelerated MRI Reconstruction.<br/> 
