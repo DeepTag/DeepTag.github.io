@@ -42,7 +42,7 @@ Meng Ye, Bingyu Xin, Bangwei Guo, Leon Axel, Dimitris N. Metaxas. arXiv preprint
 Meng Ye, Bingyu Xin, Leon Axel, Dimitris N. Metaxas. In IEEE Winter Conference on Applications of Computer Vision (WACV), 2025. [[Paper](https://arxiv.org/abs/2410.23191)] [[Project page](https://github.com/DeepTag/CSTM)]
 
 [15] Rethinking Deep Unrolled Model for Accelerated MRI Reconstruction.
-Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas. In European Conference on Computer Vision (ECCV), 2024. (Oral) (Double winner solution of the CMRxRecon2024 challenge) [[News](https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024)] [[Code](https://github.com/hellopipu/PromptMR-plus)]
+Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas. In European Conference on Computer Vision (ECCV), 2024. ($${\color{red}Oral}$$) (Double winner solution of the CMRxRecon2024 challenge) [[News](https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024)] [[Code](https://github.com/hellopipu/PromptMR-plus)]
 
 [14] Unsupervised Exemplar-Based Image-to-Image Translation and Cascaded Vision Transformers for Tagged and Untagged Cardiac Cine MRI Registration.
 Meng Ye, Mikael Kanski, Dong Yang, Leon Axel, Dimitris N. Metaxas. In IEEE Winter Conference on Applications of Computer Vision (WACV), 2024. [[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Ye_Unsupervised_Exemplar-Based_Image-to-Image_Translation_and_Cascaded_Vision_Transformers_for_Tagged_WACV_2024_paper.html)] [[Project page](https://github.com/DeepTag/ECaT)]
@@ -66,7 +66,7 @@ Qi Chang, Zhennan Yan, Mu Zhou, Di Liu, Khalid Sawalha, Meng Ye, Qilong Zhangli,
 Qi Chang, Zhennan Yan, Meng Ye, Mikael Kanski, Subhi Al’Aref, Leon Axel, Dimitris Metaxas. In International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) Workshop STACOM, 2021.
 
 [7] DeepTag: An Unsupervised Deep Learning Method for Motion Tracking on Cardiac Tagging Magnetic Resonance Images.
-Meng Ye, Mikael Kanski, Dong Yang, Qi Chang, Zhennan Yan, Qiaoying Huang, Leon Axel, Dimitris Metaxas. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (Oral) [[Paper](https://arxiv.org/abs/2103.02772)] [[Code](https://github.com/DeepTag/cardiac_tagging_motion_estimation)] 
+Meng Ye, Mikael Kanski, Dong Yang, Qi Chang, Zhennan Yan, Qiaoying Huang, Leon Axel, Dimitris Metaxas. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021. ($${\color{red}Oral}$$) [[Paper](https://arxiv.org/abs/2103.02772)] [[Code](https://github.com/DeepTag/cardiac_tagging_motion_estimation)] 
 
 [6] Deep Learning-assisted MRI Prediction of Tumor Response to Chemotherapy in Patients with Colorectal Liver Metastases.
 Haibin Zhu*, Da Xu*, Meng Ye, Li Sun, Xiaoyan Zhang, Xiaoting Li, Pei Nie, Baocai Xing, Yingshi Sun. In International Journal of Cancer (IJC), 2021. [[Paper](https://drive.google.com/file/d/1w3lqOuUtP_wjbqlmM90aZ7NYujL77jDc/view)]
