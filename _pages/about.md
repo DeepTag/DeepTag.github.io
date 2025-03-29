@@ -25,7 +25,7 @@ My research interests mainly focus on computer vision, medical image analysis an
 - 3D shape modeling and dynamic analysis.
 
 # 🔥 PhD Students Recruitment 
-I am looking for two self-motivated and talent PhD students to work on machine learning, computer vision and AI for healthcare applications. Students with a background in Computer Science, Biomedical Engineering (especially for MRI), Electrical Engineering, Automation, or related fields are welcome to drop me an email (meng.ye@rutgers.edu) with your CV and publications (if any). Please note I may not be able to respond to every message due to limited time. [[Flyer](https://github.com/bangwayne/verse)]
+I am looking for two self-motivated and talent PhD students to work on machine learning, computer vision and AI for healthcare applications. Students with a background in Computer Science, Biomedical Engineering (especially for MRI), Electrical Engineering, Automation, or related fields are welcome to drop me an email (meng.ye@rutgers.edu) with your CV and publications (if any). Please note I may not be able to respond to every message due to limited time. 
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 I will be an Assistant Professor of Computer Science Engineering at The University of Texas at Arlington. 
