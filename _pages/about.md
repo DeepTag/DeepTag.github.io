@@ -47,11 +47,11 @@ I am looking for multiple self-motivated PhD students to work on machine learnin
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10* Double champion of the CMRxRecon2024 challenge ([News](https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024)). 
+- *2023.10* Double champion of the CMRxRecon2023 challenge ([News](https://www.cs.rutgers.edu/news-events/news/news-item/ph-d-students-bingyu-xin-and-meng-ye-awarded-two-accolades-at-miccai-conference). 
 
 # 📖 Educations
-- *2019.06 - 2025.05 (now)*, Ph.D. Computer Science, Rutgers University, New Brunswick, NJ, USA.
+- *2019.09 - 2025.06*, Ph.D. Computer Science, Rutgers University, New Brunswick, NJ, USA.
 - *2013.09 - 2016.06*, M.E. Biomedical Engineering, Tsinghua University, Beijing, China.
 - *2007.09 - 2011.06*, B.E. Nuclear Science and Engineering, North China Electric Power University, Beijing, China.
 
