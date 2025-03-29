@@ -42,13 +42,13 @@ Meng Ye, Bingyu Xin, Bangwei Guo, Leon Axel, Dimitris N. Metaxas. ***arXiv prepr
 Meng Ye, Bingyu Xin, Leon Axel, Dimitris N. Metaxas. In _IEEE Winter Conference on Applications of Computer Vision_ (***WACV***), 2025. [[Paper](https://arxiv.org/abs/2410.23191)] [[Project page](https://github.com/DeepTag/CSTM)]
 
 [15] Rethinking Deep Unrolled Model for Accelerated MRI Reconstruction.<br/> 
-Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas. In _European Conference on Computer Vision_ (***ECCV***), 2024. ($${\color{red}{Oral}}$$) (Double winner solution of the CMRxRecon2024 challenge) [[News](https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024)] [[Code](https://github.com/hellopipu/PromptMR-plus)]
+Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas. In _European Conference on Computer Vision_ (***ECCV***), 2024. ($${\color{red}{Oral}}$$) ($${\color{red}{Double winner solution of the CMRxRecon2024 challenge}}$$) [[News](https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024)] [[Code](https://github.com/hellopipu/PromptMR-plus)]
 
 [14] Unsupervised Exemplar-Based Image-to-Image Translation and Cascaded Vision Transformers for Tagged and Untagged Cardiac Cine MRI Registration.<br/> 
 Meng Ye, Mikael Kanski, Dong Yang, Leon Axel, Dimitris N. Metaxas. In _IEEE Winter Conference on Applications of Computer Vision_ (***WACV***), 2024. [[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Ye_Unsupervised_Exemplar-Based_Image-to-Image_Translation_and_Cascaded_Vision_Transformers_for_Tagged_WACV_2024_paper.html)] [[Project page](https://github.com/DeepTag/ECaT)]
 
 [13] Fill the K-Space and Refine the Image: Prompting for Dynamic and Multi-Contrast MRI Reconstruction.<br/> 
-Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas. In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2023. (Double winner solution of the CMRxRecon2023 challenge) [[News](https://www.cs.rutgers.edu/news-events/news/news-item/ph-d-students-bingyu-xin-and-meng-ye-awarded-two-accolades-at-miccai-conference)] [[Code](https://github.com/hellopipu/PromptMR)]
+Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas. In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2023. ($${\color{red}{Double winner solution of the CMRxRecon2023 challenge}}$$) [[News](https://www.cs.rutgers.edu/news-events/news/news-item/ph-d-students-bingyu-xin-and-meng-ye-awarded-two-accolades-at-miccai-conference)] [[Code](https://github.com/hellopipu/PromptMR)]
 
 [12] Neural Deformable Models for 3D Bi-Ventricular Heart Shape Reconstruction and Modeling from 2D Sparse Cardiac Magnetic Resonance Imaging.<br/> 
 Meng Ye, Dong Yang, Mikael Kanski, Leon Axel, Dimitris N. Metaxas. In _IEEE International Conference on Computer Vision_ (***ICCV***), 2023. [[Paper](https://arxiv.org/abs/2307.07693)] [[Project page](https://github.com/DeepTag/NeuralDeformableModels)]
