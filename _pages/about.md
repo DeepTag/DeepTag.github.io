@@ -24,7 +24,7 @@ My research interests mainly focus on computer vision, medical image analysis an
 - MRI pulse sequences and image reconstruction.
 - 3D shape modeling and dynamic analysis.
 
-# PhD Students Recruitment 
+# 🔥 PhD Students Recruitment 
 I am looking for multiple self-motivated PhD students to work on machine learning, computer vision and AI for healthcare applications. Students with a background in Computer Science, Biomedical Engineering (especially for MRI), Electrical Engineering, Automation, or related fields are welcome to drop me an email (meng.ye@rutgers.edu) with your CV and publications (if any). Please note I may not be able to respond to every message due to limited time.
 
 # 🔥 News
@@ -102,7 +102,7 @@ Wenbo Sun*, Meng Ye*, Yuan Zheng, Lele Zhao, Nan Liu, Yanqun Teng, Lan Lan, Jian
 - *2023.06 - 2023.08*, Computer Vision Research Intern, UII America, Boston, MA.
 - *2021.06 - 2021.08*, Machine Learning Research Intern, Siemens Healthineers, Princeton, NJ.
 
-# Working Experience
+# 💻 Working Experience
 - *2018.08 - 2019.07*, Research Assistant, Peking University Cancer Hospital and Institute, Beijing, China.
 - *2017.12 - 2018.07*, Data Analyst, 12 Sigma Technologies, Shanghai, China.
 - *2016.07 - 2017.11*, MRI Pulse Sequence Design and Image Reconstruction Engineer, United Imaging Healthcare, Shanghai, China.
