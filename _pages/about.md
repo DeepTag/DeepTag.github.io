@@ -32,7 +32,7 @@ I am looking for multiple self-motivated PhD students to work on machine learnin
 
 # 📝 Publications 
 [18] VerSe: Integrating Multiple Queries as Prompts for Versatile Cardiac MRI Segmentation. 
-Bangwei Guo, Meng Ye, Yunhe Gao, Bingyu Xin, Leon Axel, Dimitris N. Metaxas. In Information Processing in Medical Imaging (IPMI), 2025. (Oral) [[Code](https://github.com/bangwayne/verse)]
+Bangwei Guo, Meng Ye, Yunhe Gao, Bingyu Xin, Leon Axel, Dimitris N. Metaxas. In Information Processing in Medical Imaging (IPMI), 2025. ($${\color{red}Oral}$$) [[Code](https://github.com/bangwayne/verse)]
 
 [17] Learning Volumetric Neural Deformable Models to Recover 3D Regional Heart Wall Motion from Multi-Planar Tagged MRI. 
 Meng Ye, Bingyu Xin, Bangwei Guo, Leon Axel, Dimitris N. Metaxas. arXiv preprint, 2025. [[Paper](https://arxiv.org/abs/2411.15233)] 
