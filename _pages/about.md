@@ -31,20 +31,59 @@ I am looking for multiple self-motivated PhD students to work on machine learnin
 - *2025.03*: &nbsp;🎉🎉 I will be an Assistant Professor of Computer Science Engineering at The University of Texas at Arlington. 
 
 # 📝 Publications 
+[18] VerSe: Integrating Multiple Queries as Prompts for Versatile Cardiac MRI Segmentation. 
+Bangwei Guo, Meng Ye, Yunhe Gao, Bingyu Xin, Leon Axel, Dimitris N. Metaxas. In Information Processing in Medical Imaging (IPMI), 2025. (Oral) [Code]
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[17] Learning Volumetric Neural Deformable Models to Recover 3D Regional Heart Wall Motion from Multi-Planar Tagged MRI. [Paper][Project page]
+Meng Ye, Bingyu Xin, Bangwei Guo, Leon Axel, Dimitris N. Metaxas. arXiv preprint, 2025.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[16] Continuous Spatio-Temporal Memory Networks for 4D Cardiac Cine MRI Segmentation. [Paper][Project page]
+Meng Ye, Bingyu Xin, Leon Axel, Dimitris N. Metaxas. In IEEE Winter Conference on Applications of Computer Vision (WACV), 2025.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[15] Rethinking Deep Unrolled Model for Accelerated MRI Reconstruction.
+Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas. In European Conference on Computer Vision (ECCV), 2024. (Oral) (Double winner solution of the CMRxRecon2024 challenge)[Rutgers CS News][Code]
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+[14] Unsupervised Exemplar-Based Image-to-Image Translation and Cascaded Vision Transformers for Tagged and Untagged Cardiac Cine MRI Registration.
+Meng Ye, Mikael Kanski, Dong Yang, Leon Axel, Dimitris N. Metaxas. In IEEE Winter Conference on Applications of Computer Vision (WACV), 2024. [Paper] [Project page]
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[13] Fill the K-Space and Refine the Image: Prompting for Dynamic and Multi-Contrast MRI Reconstruction.
+Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas. In International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) Workshop STACOM, 2023. (Double winner solution of the CMRxRecon2023 challenge)[Rutgers CS News] [Code]
+
+[12] Neural Deformable Models for 3D Bi-Ventricular Heart Shape Reconstruction and Modeling from 2D Sparse Cardiac Magnetic Resonance Imaging.
+Meng Ye, Dong Yang, Mikael Kanski, Leon Axel, Dimitris N. Metaxas. In IEEE International Conference on Computer Vision (ICCV), 2023. [Paper] [Project page]
+
+[11] Deformer: Integrating Transformers with Deformable Models for 3D Shape Abstraction from A Single Image.
+Di Liu, Xiang Yu, Meng Ye, Qilong Zhangli, Zhuowei Li, Zhixing Zhang, Dimitris N. Metaxas. In IEEE International Conference on Computer Vision (ICCV), 2023.
+
+[10] SequenceMorph: A Unified Unsupervised Learning Framework for Motion Tracking on Cardiac Image Sequences.
+Meng Ye, Dong Yang, Qiaoying Huang, Mikael Kanski, Leon Axel, Dimitris N. Metaxas. In IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023. [Project page]
+
+[9] DeepRecon: Joint 2D Cardiac Segmentation and 3D Volume Reconstruction via A Structure-Specific Generative Method.
+Qi Chang, Zhennan Yan, Mu Zhou, Di Liu, Khalid Sawalha, Meng Ye, Qilong Zhangli, Mikael Kanski, Subhi Al Aref, Leon Axel, Dimitris Metaxas. In International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2022.
+
+[8] An unsupervised 3D recurrent neural network for slice misalignment correction in cardiac MR imaging.
+Qi Chang, Zhennan Yan, Meng Ye, Mikael Kanski, Subhi Al’Aref, Leon Axel, Dimitris Metaxas. In International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) Workshop STACOM, 2021.
+
+[7] DeepTag: An Unsupervised Deep Learning Method for Motion Tracking on Cardiac Tagging Magnetic Resonance Images.
+Meng Ye, Mikael Kanski, Dong Yang, Qi Chang, Zhennan Yan, Qiaoying Huang, Leon Axel, Dimitris Metaxas. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (Oral) [Paper] [Code] [Video]
+
+[6] Deep Learning-assisted MRI Prediction of Tumor Response to Chemotherapy in Patients with Colorectal Liver Metastases.
+Haibin Zhu*, Da Xu*, Meng Ye, Li Sun, Xiaoyan Zhang, Xiaoting Li, Pei Nie, Baocai Xing, Yingshi Sun. In International Journal of Cancer (IJC), 2021. [Paper]
+
+[5] Cardiac MR Image Sequence Segmentation with Temporal Motion Encoding.
+Pengxiang Wu, Qiaoying Huang, Jingru Yi, Hui Qu, Meng Ye, Leon Axel, Dimitris N. Metaxas. In European Conference on Computer Vision (ECCV) Workshop BIC, 2020.
+
+[4] PC-U Net: Learning to Jointly Reconstruct and Segment the Cardiac Walls in 3D from CT Data.
+Meng Ye, Qiaoying Huang, Dong Yang, Pengxiang Wu, Jingru Yi, Leon Axel, Dimitris Metaxas. In International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) Workshop STACOM, 2020. [Paper]  
+
+[3] Predicting Rectal Cancer Response to Neoadjuvant Chemoradiotherapy Using Deep Learning of Diffusion Kurtosis MRI.
+Xiaoyan Zhang*, Lin Wang*, Haitao Zhu, Zhongwu Li, Meng Ye, Xiaoting Li, Yanjie Shi, Huici Zhu, Yingshi Sun. In Radiology, 2020. [Paper] [Supplement Material] [Editorial Commentary]
+
+[2] Prediction of Pathological Complete Response to Neoadjuvant Chemotherapy in Breast Cancer Using Deep Learning (DL) Method.
+Yuhong Qu*, Haitao Zhu*, Kun Cao, Xiaoting Li, Meng Ye, Yingshi Sun. In Thoracic Cancer, 2020. [Paper]
+
+[1] Feasibility Study of Whole Heart T1 Mapping with SMS in A Single Breath Hold.
+Wenbo Sun*, Meng Ye*, Yuan Zheng, Lele Zhao, Nan Liu, Yanqun Teng, Lan Lan, Jian Xu, Haibo Xu. In Joint Annual Meeting ISMRM-ESMRMB, 2018. [Poster]
 
 # 🎖 Honors and Awards
 - *2024.10* Double champion of the CMRxRecon2024 challenge ([News](https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024)). 
