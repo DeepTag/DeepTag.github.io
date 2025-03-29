@@ -69,7 +69,7 @@ Qi Chang, Zhennan Yan, Meng Ye, Mikael Kanski, Subhi Al’Aref, Leon Axel, Dimit
 Meng Ye, Mikael Kanski, Dong Yang, Qi Chang, Zhennan Yan, Qiaoying Huang, Leon Axel, Dimitris Metaxas. In _IEEE Conference on Computer Vision and Pattern Recognition_ (***CVPR***), 2021. ($${\color{red}{Oral}}$$) [[Paper](https://arxiv.org/abs/2103.02772)] [[Code](https://github.com/DeepTag/cardiac_tagging_motion_estimation)] 
 
 [6] Deep Learning-assisted MRI Prediction of Tumor Response to Chemotherapy in Patients with Colorectal Liver Metastases.<br/> 
-Haibin Zhu*, Da Xu*, Meng Ye, Li Sun, Xiaoyan Zhang, Xiaoting Li, Pei Nie, Baocai Xing, Yingshi Sun. In ***International Journal of Cancer_ (IJC)***, 2021. [[Paper](https://drive.google.com/file/d/1w3lqOuUtP_wjbqlmM90aZ7NYujL77jDc/view)]
+Haibin Zhu*, Da Xu*, Meng Ye, Li Sun, Xiaoyan Zhang, Xiaoting Li, Pei Nie, Baocai Xing, Yingshi Sun. In ***International Journal of Cancer (IJC)***, 2021. [[Paper](https://drive.google.com/file/d/1w3lqOuUtP_wjbqlmM90aZ7NYujL77jDc/view)]
 
 [5] Cardiac MR Image Sequence Segmentation with Temporal Motion Encoding.<br/> 
 Pengxiang Wu, Qiaoying Huang, Jingru Yi, Hui Qu, Meng Ye, Leon Axel, Dimitris N. Metaxas. In _European Conference on Computer Vision_ (***ECCV***) _Workshop_ ***BIC***, 2020.
