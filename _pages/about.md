@@ -35,7 +35,8 @@ I am looking for multiple self-motivated PhD students to work on machine learnin
 Bangwei Guo, Meng Ye, Yunhe Gao, Bingyu Xin, Leon Axel, Dimitris N. Metaxas. In Information Processing in Medical Imaging (IPMI), 2025. (Oral) [[Code](https://github.com/bangwayne/verse)]
 
 [17] Learning Volumetric Neural Deformable Models to Recover 3D Regional Heart Wall Motion from Multi-Planar Tagged MRI. 
-Meng Ye, Bingyu Xin, Bangwei Guo, Leon Axel, Dimitris N. Metaxas. arXiv preprint, 2025. [[Paper](https://arxiv.org/abs/2411.15233)][[Project page](https://github.com/DeepTag/VolumetricNeuralDeformableModels)]
+Meng Ye, Bingyu Xin, Bangwei Guo, Leon Axel, Dimitris N. Metaxas. arXiv preprint, 2025. [[Paper](https://arxiv.org/abs/2411.15233)] 
+ [[Project page](https://github.com/DeepTag/VolumetricNeuralDeformableModels)]
 
 [16] Continuous Spatio-Temporal Memory Networks for 4D Cardiac Cine MRI Segmentation. 
 Meng Ye, Bingyu Xin, Leon Axel, Dimitris N. Metaxas. In IEEE Winter Conference on Applications of Computer Vision (WACV), 2025. [[Paper](https://arxiv.org/abs/2410.23191)] [[Project page](https://github.com/DeepTag/CSTM)]
