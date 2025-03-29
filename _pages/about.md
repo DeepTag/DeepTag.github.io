@@ -17,14 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a final year PhD candidate at the Department of Computer Science, Rutgers University. My advisor is the distinguished professor Dimitris N. Metaxas. I received my B.E. degree from North China Electric Power University and M.E. degree from Tsinghua University, both in Beijing, China. I also spent three years working in China, including the one-year wonderful experience in the Radiology Department of Peking University Cancer Hospital and Institute. I have a solid technical background in Cardiac MRI <a href='https://cardiacmri.com/tech-guide/imaging-sequences/'>.  
+I'm a final year PhD candidate at the Department of Computer Science, Rutgers University. My advisor is the distinguished professor Dimitris N. Metaxas. I received my B.E. degree from North China Electric Power University and M.E. degree from Tsinghua University, both in Beijing, China. I also spent three years working in China, including the one-year wonderful experience in the Radiology Department of Peking University Cancer Hospital and Institute. I have a solid technical background in [Cardiac MRI](https://cardiacmri.com/tech-guide/imaging-sequences).  
 
-My research interests mainly focus on computer vision, medical image analysis  and medical imaging. Current research projects are: (1) Cardiac MR image analysis: motion estimation, image segmentation and strain analysis on cardiac cine MRI and myocardial tagging MRI <a href='https://drive.google.com/file/d/19_KQq7y0uHBfTBLO72yykKKsjXfTkyXF/view'>. (2) MRI pulse sequences and image reconstruction. (3) 3D shape modeling and dynamic analysis.
+My research interests mainly focus on computer vision, medical image analysis and medical imaging. Current research projects are: 
+- (1) Cardiac MR image analysis: motion estimation, image segmentation and strain analysis on cardiac cine MRI and [myocardial tagging MRI](https://drive.google.com/file/d/19_KQq7y0uHBfTBLO72yykKKsjXfTkyXF/view).
+- (2) MRI pulse sequences and image reconstruction.
+- (3) 3D shape modeling and dynamic analysis.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.03*: &nbsp;🎉🎉 I will be an Assistant Professor of Computer Science Engineering at The University of Texas at Arlington. 
 
 # 📝 Publications 
 
