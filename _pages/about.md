@@ -19,13 +19,15 @@ redirect_from:
 
 I'm a final year PhD candidate at the Department of Computer Science, Rutgers University. My advisor is Distinguished Professor Dimitris N. Metaxas. I received my BE Degree from North China Electric Power University and ME Degree from Tsinghua University, both in Beijing, China. I also spent three years working in China, including the one-year wonderful experience in the Radiology Department of Peking University Cancer Hospital and Institute. I have a solid technical background in [Cardiac MRI](https://cardiacmri.com/tech-guide/imaging-sequences).  
 
-My research interests mainly focus on computer vision, medical image analysis and medical imaging. Current research projects are: 
-- Cardiac MR image analysis: motion estimation, image segmentation and strain analysis on cardiac cine MRI and [myocardial tagging MRI](https://drive.google.com/file/d/19_KQq7y0uHBfTBLO72yykKKsjXfTkyXF/view).
-- MRI pulse sequences and image reconstruction.
-- 3D shape modeling and dynamic analysis.
+My research interests mainly focus on AI, computer vision, medical image analysis and medical imaging. Current involved research projects are: 
+- Medical image analysis: image segmentation, image registration, image generation.
+- Cardiac MRI pulse sequences development.
+- 3D shape modeling and 4D dynamic analysis.
+- Low level computer vision tasks: image reconstruction, denosing, super resolution.
+- Inverse problems solving with machine learning.
 
 # 🔥 PhD Students Recruitment 
-I am looking for two self-motivated and talent PhD students to work on machine learning, computer vision and AI for healthcare applications. Students with a background in Computer Science, Biomedical Engineering (especially for MRI), Electrical Engineering, Automation, or related fields are welcome to drop me an email (meng.ye@rutgers.edu) with your CV and publications (if any). Please note I may not be able to respond to every message due to limited time. 
+I am looking for two self-motivated and talent PhD students to work on machine learning, computer vision and AI for healthcare applications. Students with a background in Computer Science, Biomedical Engineering (especially for MRI pulse sequences), Electrical Engineering, Automation, or related fields are welcome to drop me an email (meng.ye@rutgers.edu) with your CV and publications (if any). Please note I may not be able to respond to every message due to limited time. 
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 I will be an Assistant Professor of Computer Science Engineering Department at The University of Texas at Arlington starting from September 2025. 
