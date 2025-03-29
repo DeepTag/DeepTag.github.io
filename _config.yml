@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Meng Ye"
-description              : "PhD candidate in Rutgers Computer Science. In coming Assistant Professor of Computer Science Engineering in UT Alington. "
+description              : #"PhD candidate in Rutgers Computer Science. In coming Assistant Professor of Computer Science Engineering in UT Alington. "
 repository               : "DeepTag/DeepTag.github.io"
 google_scholar_stats_use_cdn : true
 
