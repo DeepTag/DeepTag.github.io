@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a final year PhD candidate at the Department of Computer Science, Rutgers University. My advisor is Distinguished Professor Dimitris N. Metaxas. I received my BE Degree from North China Electric Power University and ME Degree from Tsinghua University, both in Beijing, China. I also spent three years working in China, including the development of [cardiac MRI pulse sequences](https://cardiacmri.com/tech-guide/imaging-sequences), MRI image reconstrution algorithms, machine learning-based medical image analysis and one-year wonderful research assistant experience in the Radiology Department of Peking University Cancer Hospital and Institute.
+I'm a final year PhD candidate at the Department of Computer Science, Rutgers University. My advisor is Distinguished Professor Dimitris N. Metaxas. I received my BE Degree from North China Electric Power University and ME Degree from Tsinghua University, both in Beijing, China. I also spent three years working in China, including one-year wonderful research assistant experience in the Radiology Department of Peking University Cancer Hospital and Institute. My past work were mainly for development of [cardiac MRI pulse sequences](https://cardiacmri.com/tech-guide/imaging-sequences), MRI image reconstrution algorithms and machine learning-based medical image analysis.
 
 My research interests mainly focus on AI, computer vision, medical image analysis and medical imaging. Current involved research projects are: 
 - Computer vision and medical image computing: image segmentation, motion tracking, image registration, image generation, 3D shape modeling and 4D dynamic analysis.
