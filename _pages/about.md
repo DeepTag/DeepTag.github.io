@@ -31,12 +31,12 @@ I am always looking for self-motivated and talent PhD students to work on machin
 - *2025.03*: &nbsp;🎉🎉 I will be an Assistant Professor of Computer Science Engineering Department at The University of Texas at Arlington starting from September 2025. 
 
 # 📝 Publications 
-[19] VerSe: Integrating Multiple Queries as Prompts for Versatile Cardiac MRI Segmentation.<br/> 
-Bangwei Guo, Meng Ye, Yunhe Gao, Bingyu Xin, Leon Axel, Dimitris N. Metaxas. In _Information Processing in Medical Imaging_ (***IPMI***), 2025. ($${\color{red}{Oral}}$$) [[Code](https://github.com/bangwayne/verse)]
-
-[18] Learning Volumetric Neural Deformable Models to Recover 3D Regional Heart Wall Motion from Multi-Planar Tagged MRI.<br/> 
+[19] Learning Volumetric Neural Deformable Models to Recover 3D Regional Heart Wall Motion from Multi-Planar Tagged MRI.<br/> 
 Meng Ye, Bingyu Xin, Bangwei Guo, Leon Axel, Dimitris N. Metaxas. ***arXiv preprint***, 2025. [[Paper](https://arxiv.org/abs/2411.15233)] 
  [[Project page](https://github.com/DeepTag/VolumetricNeuralDeformableModels)]
+ 
+[18] VerSe: Integrating Multiple Queries as Prompts for Versatile Cardiac MRI Segmentation.<br/> 
+Bangwei Guo, Meng Ye, Yunhe Gao, Bingyu Xin, Leon Axel, Dimitris N. Metaxas. In _Information Processing in Medical Imaging_ (***IPMI***), 2025. ($${\color{red}{Oral}}$$) [[Code](https://github.com/bangwayne/verse)]
 
 [17] Continuous Spatio-Temporal Memory Networks for 4D Cardiac Cine MRI Segmentation.<br/>
 Meng Ye, Bingyu Xin, Leon Axel, Dimitris N. Metaxas. In _IEEE Winter Conference on Applications of Computer Vision_ (***WACV***), 2025. [[Paper](https://arxiv.org/abs/2410.23191)] [[Project page](https://github.com/DeepTag/CSTM)]
