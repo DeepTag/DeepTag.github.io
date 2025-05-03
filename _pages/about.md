@@ -31,18 +31,21 @@ I am always looking for self-motivated and talent PhD students to work on machin
 - *2025.03*: &nbsp;🎉🎉 I will be an Assistant Professor of Computer Science Engineering Department at The University of Texas at Arlington starting from September 2025. 
 
 # 📝 Publications 
-[18] VerSe: Integrating Multiple Queries as Prompts for Versatile Cardiac MRI Segmentation.<br/> 
+[19] VerSe: Integrating Multiple Queries as Prompts for Versatile Cardiac MRI Segmentation.<br/> 
 Bangwei Guo, Meng Ye, Yunhe Gao, Bingyu Xin, Leon Axel, Dimitris N. Metaxas. In _Information Processing in Medical Imaging_ (***IPMI***), 2025. ($${\color{red}{Oral}}$$) [[Code](https://github.com/bangwayne/verse)]
 
-[17] Learning Volumetric Neural Deformable Models to Recover 3D Regional Heart Wall Motion from Multi-Planar Tagged MRI.<br/> 
+[18] Learning Volumetric Neural Deformable Models to Recover 3D Regional Heart Wall Motion from Multi-Planar Tagged MRI.<br/> 
 Meng Ye, Bingyu Xin, Bangwei Guo, Leon Axel, Dimitris N. Metaxas. ***arXiv preprint***, 2025. [[Paper](https://arxiv.org/abs/2411.15233)] 
  [[Project page](https://github.com/DeepTag/VolumetricNeuralDeformableModels)]
 
-[16] Continuous Spatio-Temporal Memory Networks for 4D Cardiac Cine MRI Segmentation.<br/>
+[17] Continuous Spatio-Temporal Memory Networks for 4D Cardiac Cine MRI Segmentation.<br/>
 Meng Ye, Bingyu Xin, Leon Axel, Dimitris N. Metaxas. In _IEEE Winter Conference on Applications of Computer Vision_ (***WACV***), 2025. [[Paper](https://arxiv.org/abs/2410.23191)] [[Project page](https://github.com/DeepTag/CSTM)]
 
+[16] Enhanced Deep Unrolled Models Applied to the CMRxRecon2024 Challenge.<br/> 
+Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas. In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2024.  ($$\color{red}{Double}$$ $$\color{red}{winner}$$ $$\color{red}{of}$$ $$\color{red}{CMRxRecon2024}$$) [[News](https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024)] [[Code](https://github.com/hellopipu/PromptMR-plus)]
+
 [15] Rethinking Deep Unrolled Model for Accelerated MRI Reconstruction.<br/> 
-Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas. In _European Conference on Computer Vision_ (***ECCV***), 2024. ($${\color{red}{Oral}}$$) ($$\color{red}{Double}$$ $$\color{red}{winner}$$ $$\color{red}{of}$$ $$\color{red}{CMRxRecon2024}$$) [[News](https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024)] [[Code](https://github.com/hellopipu/PromptMR-plus)]
+Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas. In _European Conference on Computer Vision_ (***ECCV***), 2024. ($${\color{red}{Oral}}$$)
 
 [14] Unsupervised Exemplar-Based Image-to-Image Translation and Cascaded Vision Transformers for Tagged and Untagged Cardiac Cine MRI Registration.<br/> 
 Meng Ye, Mikael Kanski, Dong Yang, Leon Axel, Dimitris N. Metaxas. In _IEEE Winter Conference on Applications of Computer Vision_ (***WACV***), 2024. [[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Ye_Unsupervised_Exemplar-Based_Image-to-Image_Translation_and_Cascaded_Vision_Transformers_for_Tagged_WACV_2024_paper.html)] [[Project page](https://github.com/DeepTag/ECaT)]
