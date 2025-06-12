@@ -25,12 +25,11 @@ I lead the **ICML** group at UTA. Our group mainly focuses on novel methods for 
 - Cardiac modeling: simulation of the heart's function in both healthy and diseased states, including electrical conduction, mechanical contraction, and blood flow. 
 - Low level learning tasks and inverse problems: image reconstruction, denosing and super resolution.
 
+Our group is always looking for self-motivated and talent PhD students to work on medical imaging, machine learning, computer vision and AI techniques for healthcare applications. Students with a background in Computer Science, Biomedical Engineering (especially for MRI pulse sequences), Electrical Engineering, Automation, or related fields are welcome to drop me an email with your CV and publications (if any). Please note I may not be able to respond to every message due to limited time. [[Flyer](https://drive.google.com/file/d/1B6w70RqPybizEp7-f9vJEU3mqpBzZi7A/view?usp=sharing)] [[UTA CSE PhD Admission Requirements](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/phd)]
+
 # Group Members
 - Shaoming Pan
 - Chenchuhui Hu
-
-# PhD Students Recruitment 
-I am always looking for self-motivated and talent PhD students to work on machine learning, computer vision and AI for healthcare applications. Students with a background in Computer Science, Biomedical Engineering (especially for MRI pulse sequences), Electrical Engineering, Automation, or related fields are welcome to drop me an email with your CV and publications (if any). Please note I may not be able to respond to every message due to limited time. [[Flyer](https://drive.google.com/file/d/1B6w70RqPybizEp7-f9vJEU3mqpBzZi7A/view?usp=sharing)] [[UTA CSE PhD Admission Requirements](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/phd)]
 
 # News
 - *2025.03*: &nbsp;🎉🎉 I will be an Assistant Professor of Computer Science Engineering Department at The University of Texas at Arlington starting from Fall 2025. 
