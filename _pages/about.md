@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently an Assistant Professor of Computer Science and Engineering at The University of Texas at Arlington. I received my PhD from the Department of Computer Science at Rutgers University, advised by Distinguished Professor Dimitris N. Metaxas. Before that, I received my ME Degree from Tsinghua University and BE Degree from North China Electric Power University, both in Beijing, China. I also spent four years working in China, including one-year wonderful research assistant experience in the Radiology Department of Peking University Cancer Hospital and Institute. I have a solid technical background in [cardiac MRI](https://cardiacmri.com/tech-guide/imaging-sequences).
 
-Research interests in the ***ICML*** group at UTA mainly focus on novel methods for ***I***maging, ***C***omputing, ***M***odeling and ***L***earning. Current involved research projects are:
+Research interests in the **ICML** group at UTA mainly focus on novel methods for **I**maging, **C**omputing, **M**odeling and ***L**earning. Current involved research projects are:
 - Fast imaging: novel MRI pulse sequences.
 - Computer vision and medical image computing: image segmentation, motion tracking, image registration, image generation, 3D shape modeling and 4D dynamic analysis.
 - Cardiac modeling: simulation of the heart's function in both healthy and diseased states, including electrical conduction, mechanical contraction, and blood flow. 
