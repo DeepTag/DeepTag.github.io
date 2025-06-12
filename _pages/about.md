@@ -23,7 +23,7 @@ My research interests mainly focus on imaging, computing, modeling and learning 
 - Fast imaging: novel MRI pulse sequences.
 - Computer vision and medical image computing: image segmentation, motion tracking, image registration, image generation, 3D shape modeling and 4D dynamic analysis.
 - Cardiac modeling: simulation of the heart's function in both healthy and diseased states, including electrical conduction, mechanical contraction, and blood flow. 
-- Low level learning tasks and inverse problems: image reconstruction, denosing, super resolution.
+- Low level learning tasks and inverse problems: image reconstruction, denosing and super resolution.
 
 # 🔥 PhD Students Recruitment 
 I am always looking for self-motivated and talent PhD students to work on machine learning, computer vision and AI for healthcare applications. Students with a background in Computer Science, Biomedical Engineering (especially for MRI pulse sequences), Electrical Engineering, Automation, or related fields are welcome to drop me an email with your CV and publications (if any). Please note I may not be able to respond to every message due to limited time. [[Flyer](https://drive.google.com/file/d/1B6w70RqPybizEp7-f9vJEU3mqpBzZi7A/view?usp=sharing)] [[UTA CSE PhD Admission Requirements](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/phd)]
