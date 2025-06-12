@@ -31,8 +31,8 @@ Our group is always looking for self-motivated and talent PhD students to work o
 - *2025.03*: &nbsp;🎉🎉 I will be an Assistant Professor of Computer Science Engineering Department at The University of Texas at Arlington starting from Fall 2025.
 
 # Group Members
-- Shaoming Pan
 - Chenchuhui Hu
+- Shaoming Pan 
 
 # Publications 
 [20] Learning Volumetric Neural Deformable Models to Recover 3D Regional Heart Wall Motion from Multi-Planar Tagged MRI.<br/> 
