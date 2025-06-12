@@ -2,15 +2,12 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-    
-  - title: "Group Members"
-    url: "/#-group-members"
-    
-  - title: "PhD Students Recruitment"
-    url: "/#-phd-students-recruitment"
 
   - title: "News"
     url: "/#-news"
+    
+  - title: "Group Members"
+    url: "/#-group-members"
 
   - title: "Publications"
     url: "/#-publications"
