@@ -29,13 +29,13 @@ I lead the **ICML** group at UTA. Our research interests mainly focus on novel m
 - Shaoming Pan
 - Chenchuhui Hu
 
-# 🔥 PhD Students Recruitment 
+# PhD Students Recruitment 
 I am always looking for self-motivated and talent PhD students to work on machine learning, computer vision and AI for healthcare applications. Students with a background in Computer Science, Biomedical Engineering (especially for MRI pulse sequences), Electrical Engineering, Automation, or related fields are welcome to drop me an email with your CV and publications (if any). Please note I may not be able to respond to every message due to limited time. [[Flyer](https://drive.google.com/file/d/1B6w70RqPybizEp7-f9vJEU3mqpBzZi7A/view?usp=sharing)] [[UTA CSE PhD Admission Requirements](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/phd)]
 
-# 🔥 News
+# News
 - *2025.03*: &nbsp;🎉🎉 I will be an Assistant Professor of Computer Science Engineering Department at The University of Texas at Arlington starting from Fall 2025. 
 
-# 📝 Publications 
+# Publications 
 [20] Learning Volumetric Neural Deformable Models to Recover 3D Regional Heart Wall Motion from Multi-Planar Tagged MRI.<br/> 
 Meng Ye, Bingyu Xin, Bangwei Guo, Leon Axel, Dimitris N. Metaxas. ***arXiv preprint***, 2025. [[Paper](https://arxiv.org/abs/2411.15233)] 
  [[Project page](https://github.com/DeepTag/VolumetricNeuralDeformableModels)]
@@ -97,19 +97,19 @@ Yuhong Qu*, Haitao Zhu*, Kun Cao, Xiaoting Li, Meng Ye, Yingshi Sun. In ***Thora
 [1] Feasibility Study of Whole Heart T1 Mapping with SMS in A Single Breath Hold.<br/> 
 Wenbo Sun*, Meng Ye*, Yuan Zheng, Lele Zhao, Nan Liu, Yanqun Teng, Lan Lan, Jian Xu, Haibo Xu. In _Joint Annual Meeting_ ***ISMRM-ESMRMB***, 2018. [[Poster](https://cds.ismrm.org/protected/18MProceedings/PDFfiles/4880.html)]
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2024.10* Double champion of the CMRxRecon2024 challenge [[News](https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024)]. 
 - *2023.10* Double champion of the CMRxRecon2023 challenge [[News](https://www.cs.rutgers.edu/news-events/news/news-item/ph-d-students-bingyu-xin-and-meng-ye-awarded-two-accolades-at-miccai-conference)]. 
 
-# 📖 Educations
+# Educations
 - *2019.09 - 2025.06*, Ph.D. Computer Science, Rutgers University, New Brunswick, NJ, USA.
 - *2013.09 - 2016.06*, M.E. Biomedical Engineering, Tsinghua University, Beijing, China.
 - *2007.09 - 2011.06*, B.E. Nuclear Science and Engineering, North China Electric Power University, Beijing, China.
 
-# 💬 Invited Talks
+# Invited Talks
 - *2025.02*, AI-Driven Correspondence Learning for Dynamic Heart Function Analysis Using MRI. Job talk, UTA.
 
-# 💻 Experience
+# Experience
 - *2023.06 - 2023.08*, Computer Vision Research Intern, UII America, Boston, MA.
 - *2021.06 - 2021.08*, Machine Learning Research Intern, Siemens Healthineers, Princeton, NJ.
 - *2018.08 - 2019.07*, Research Assistant, Peking University Cancer Hospital and Institute, Beijing, China.
