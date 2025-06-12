@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a final year PhD candidate at the Department of Computer Science, Rutgers University. My advisor is Distinguished Professor Dimitris N. Metaxas. I received my BE Degree from North China Electric Power University and ME Degree from Tsinghua University, both in Beijing, China. I also spent three years working in China, including one-year wonderful research assistant experience in the Radiology Department of Peking University Cancer Hospital and Institute. I have a solid technical background in [cardiac MRI](https://cardiacmri.com/tech-guide/imaging-sequences).
+I am currently an Assistant Professor of Computer Science and Engineering at The University of Texas at Arlington. I received my PhD from the Department of Computer Science at Rutgers University, advised by Distinguished Professor Dimitris N. Metaxas. Before that, I received my ME Degree from Tsinghua University and BE Degree from North China Electric Power University, both in Beijing, China. I also spent three years working in China, including one-year wonderful research assistant experience in the Radiology Department of Peking University Cancer Hospital and Institute. I have a solid technical background in [cardiac MRI](https://cardiacmri.com/tech-guide/imaging-sequences).
 
 My research interests mainly focus on AI, computer vision, medical image analysis and medical imaging. Current involved research projects are: 
 - Computer vision and medical image computing: image segmentation, motion tracking, image registration, image generation, 3D shape modeling and 4D dynamic analysis.
@@ -28,7 +28,7 @@ My research interests mainly focus on AI, computer vision, medical image analysi
 I am always looking for self-motivated and talent PhD students to work on machine learning, computer vision and AI for healthcare applications. Students with a background in Computer Science, Biomedical Engineering (especially for MRI pulse sequences), Electrical Engineering, Automation, or related fields are welcome to drop me an email with your CV and publications (if any). Please note I may not be able to respond to every message due to limited time. [[Flyer](https://drive.google.com/file/d/1B6w70RqPybizEp7-f9vJEU3mqpBzZi7A/view?usp=sharing)] [[UTA CSE PhD Admission Requirements](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/phd)]
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 I will be an Assistant Professor of Computer Science Engineering Department at The University of Texas at Arlington starting from September 2025. 
+- *2025.03*: &nbsp;🎉🎉 I will be an Assistant Professor of Computer Science Engineering Department at The University of Texas at Arlington starting from Fall 2025. 
 
 # 📝 Publications 
 [20] Learning Volumetric Neural Deformable Models to Recover 3D Regional Heart Wall Motion from Multi-Planar Tagged MRI.<br/> 
