@@ -32,7 +32,7 @@ Our group is always looking for self-motivated and talent PhD students to work o
 
 # Group Members
 - Chenchuhui Hu (B.S., UC Davis and M.S., Brandeis University) 
-- Shaoming Pan (B.E., Shanghaijiaotong University) 
+- Shaoming Pan (B.E., Shanghai Jiao Tong University) 
 
 # Publications 
 [20] Learning Volumetric Neural Deformable Models to Recover 3D Regional Heart Wall Motion from Multi-Planar Tagged MRI.<br/> 
