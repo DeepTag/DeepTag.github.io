@@ -29,6 +29,8 @@ Our group is always looking for self-motivated and talent PhD students to work o
 
 $$\color{red}{[Two}$$ $$\color{red}{opennings}$$ $$\color{red}{of}$$ $$\color{red}{PhD}$$ $$\color{red}{student}$$ $$\color{red}{in}$$ $$\color{red}{Fall}$$ $$\color{red}{2026]}$$ 1 for computer vision/medical image computing, 1 for AI-augmented Cardiac MRI imaging.
 
+[$\color{red}{[New}$ $\color{red}{Opennings!}$] For Fall 2026 CS PhD student recruitment, we will have 1 for computer vision/medical image computing, and 1 for AI-augmented Cardiac MRI imaging.
+
 # News
 - *2025.08*: Started being an Assistant Professor of CSE Department at UTA. The weather here is really hot though :).
 - *2025.03*: &nbsp;🎉🎉 I will be an Assistant Professor of Computer Science Engineering Department at The University of Texas at Arlington starting from Fall 2025.
