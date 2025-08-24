@@ -31,7 +31,7 @@ Our group is always looking for self-motivated and talent PhD students to work o
 
 # News
 - *2025.08*: Started being an Assistant Professor of CSE Department at UTA. The weather here is really hot though :).
-- *2025.03*: &nbsp;🎉🎉 I will be an Assistant Professor of Computer Science Engineering Department at The University of Texas at Arlington starting from Fall 2025.
+- *2025.03*: I will be an Assistant Professor of Computer Science Engineering Department at The University of Texas at Arlington starting from Fall 2025.
 
 # Group Members
 PhD Students:
