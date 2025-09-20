@@ -39,20 +39,20 @@ PhD Students:
 - Shaoming Pan  (Starting in Fall 2025, Previous: BE, Shanghai Jiao Tong University) 
 
 # Publications 
-[20] Learning Volumetric Neural Deformable Models to Recover 3D Regional Heart Wall Motion from Multi-Planar Tagged MRI.<br> 
-Meng Ye, Bingyu Xin, Bangwei Guo, Leon Axel, Dimitris N. Metaxas. <br> 
+[20] Learning Volumetric Neural Deformable Models to Recover 3D Regional Heart Wall Motion from Multi-Planar Tagged MRI.\
+Meng Ye, Bingyu Xin, Bangwei Guo, Leon Axel, Dimitris N. Metaxas.\
 ***arXiv preprint***, 2025. [[Paper](https://arxiv.org/abs/2411.15233)][[Project page](https://github.com/DeepTag/VolumetricNeuralDeformableModels)]
 
-[19] Analysis of Cardiac Dynamic Global Function.<br> 
-Leon Axel, Mikael Kanski, Amit Jhaveri, Meng Ye, Bangwei Guo, Xiaoxiao He, Dimitris Metaxas.<br> 
+[19] Analysis of Cardiac Dynamic Global Function.\
+Leon Axel, Mikael Kanski, Amit Jhaveri, Meng Ye, Bangwei Guo, Xiaoxiao He, Dimitris Metaxas.\
 In _Functional Imaging and Modeling of the Heart_ (***FIMH***), 2025.
  
-[18] VerSe: Integrating Multiple Queries as Prompts for Versatile Cardiac MRI Segmentation.<br> 
-Bangwei Guo, Meng Ye, Yunhe Gao, Bingyu Xin, Leon Axel, Dimitris N. Metaxas.<br>  
+[18] VerSe: Integrating Multiple Queries as Prompts for Versatile Cardiac MRI Segmentation.\
+Bangwei Guo, Meng Ye, Yunhe Gao, Bingyu Xin, Leon Axel, Dimitris N. Metaxas.\
 In _Information Processing in Medical Imaging_ (***IPMI***), 2025. [[Code](https://github.com/bangwayne/verse)]
 
-[17] Continuous Spatio-Temporal Memory Networks for 4D Cardiac Cine MRI Segmentation.<br>
-Meng Ye, Bingyu Xin, Leon Axel, Dimitris N. Metaxas.<br>  
+[17] Continuous Spatio-Temporal Memory Networks for 4D Cardiac Cine MRI Segmentation.\
+Meng Ye, Bingyu Xin, Leon Axel, Dimitris N. Metaxas.\  
 In _IEEE Winter Conference on Applications of Computer Vision_ (***WACV***), 2025. [[Paper](https://arxiv.org/abs/2410.23191)] [[Project page](https://github.com/DeepTag/CSTM)]
 
 [16] Enhanced Deep Unrolled Models Applied to the CMRxRecon2024 Challenge.<br> 
