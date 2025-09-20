@@ -76,7 +76,7 @@ Meng Ye, Dong Yang, Mikael Kanski, Leon Axel, Dimitris N. Metaxas.<br />
 In _IEEE International Conference on Computer Vision_ (***ICCV***), 2023. [[Paper](https://arxiv.org/abs/2307.07693)] [[Project page](https://github.com/DeepTag/NeuralDeformableModels)]
 
 [11] Deformer: Integrating Transformers with Deformable Models for 3D Shape Abstraction from A Single Image.<br /> 
-Di Liu, Xiang Yu, Meng Ye, Qilong Zhangli, Zhuowei Li, Zhixing Zhang, Dimitris N. Metaxas.<br />  
+Di Liu, Xiang Yu, Meng Ye, Qilong Zhangli, Zhuowei Li, Zhixing Zhang, Dimitris N. Metaxas.<br />
 In _IEEE International Conference on Computer Vision_ (***ICCV***), 2023.
 
 [10] SequenceMorph: A Unified Unsupervised Learning Framework for Motion Tracking on Cardiac Image Sequences.<br /> 
