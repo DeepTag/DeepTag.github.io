@@ -40,14 +40,14 @@ PhD Students:
 
 # Publications 
 [20] Learning Volumetric Neural Deformable Models to Recover 3D Regional Heart Wall Motion from Multi-Planar Tagged MRI.<br/> 
-Meng Ye, Bingyu Xin, Bangwei Guo, Leon Axel, Dimitris N. Metaxas. <br/> 
+Meng Ye, Bingyu Xin, Bangwei Guo, Leon Axel, Dimitris N. Metaxas. <br> 
 ***arXiv preprint***, 2025. [[Paper](https://arxiv.org/abs/2411.15233)][[Project page](https://github.com/DeepTag/VolumetricNeuralDeformableModels)]
 
 [19] Analysis of Cardiac Dynamic Global Function.<br/> 
-Leon Axel, Mikael Kanski, Amit Jhaveri, Meng Ye, Bangwei Guo, Xiaoxiao He, Dimitris Metaxas.<br/> 
+Leon Axel, Mikael Kanski, Amit Jhaveri, Meng Ye, Bangwei Guo, Xiaoxiao He, Dimitris Metaxas.<br> 
 In _Functional Imaging and Modeling of the Heart_ (***FIMH***), 2025.
  
-[18] VerSe: Integrating Multiple Queries as Prompts for Versatile Cardiac MRI Segmentation.<br/> 
+[18] VerSe: Integrating Multiple Queries as Prompts for Versatile Cardiac MRI Segmentation.<br> 
 Bangwei Guo, Meng Ye, Yunhe Gao, Bingyu Xin, Leon Axel, Dimitris N. Metaxas.<br/>  
 In _Information Processing in Medical Imaging_ (***IPMI***), 2025. [[Code](https://github.com/bangwayne/verse)]
 
