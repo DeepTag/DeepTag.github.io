@@ -52,7 +52,7 @@ Bangwei Guo, Meng Ye, Yunhe Gao, Bingyu Xin, Leon Axel, Dimitris N. Metaxas.<br 
 In _Information Processing in Medical Imaging_ (***IPMI***), 2025. [[Code](https://github.com/bangwayne/verse)]
 
 [17] Continuous Spatio-Temporal Memory Networks for 4D Cardiac Cine MRI Segmentation.<br />
-Meng Ye, Bingyu Xin, Leon Axel, Dimitris N. Metaxas.<br />  
+Meng Ye, Bingyu Xin, Leon Axel, Dimitris N. Metaxas.<br />
 In _IEEE Winter Conference on Applications of Computer Vision_ (***WACV***), 2025. [[Paper](https://arxiv.org/abs/2410.23191)] [[Project page](https://github.com/DeepTag/CSTM)]
 
 [16] Enhanced Deep Unrolled Models Applied to the CMRxRecon2024 Challenge.<br /> 
@@ -60,7 +60,7 @@ Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas.<br />
 In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2024.  ($$\color{red}{Double}$$ $$\color{red}{winner}$$ $$\color{red}{of}$$ $$\color{red}{CMRxRecon2024}$$) [[News](https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024)]
 
 [15] Rethinking Deep Unrolled Model for Accelerated MRI Reconstruction.<br />
-Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas.<br />  
+Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas.<br />
 In _European Conference on Computer Vision_ (***ECCV***), 2024. ($${\color{red}{Oral}}$$) [[Code](https://github.com/hellopipu/PromptMR-plus)]
 
 [14] Unsupervised Exemplar-Based Image-to-Image Translation and Cascaded Vision Transformers for Tagged and Untagged Cardiac Cine MRI Registration.<br /> 
@@ -68,7 +68,7 @@ Meng Ye, Mikael Kanski, Dong Yang, Leon Axel, Dimitris N. Metaxas.<br />
 In _IEEE Winter Conference on Applications of Computer Vision_ (***WACV***), 2024. [[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Ye_Unsupervised_Exemplar-Based_Image-to-Image_Translation_and_Cascaded_Vision_Transformers_for_Tagged_WACV_2024_paper.html)] [[Project page](https://github.com/DeepTag/ECaT)]
 
 [13] Fill the K-Space and Refine the Image: Prompting for Dynamic and Multi-Contrast MRI Reconstruction.<br /> 
-Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas.<br />  
+Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas.<br />
 In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2023. ($$\color{red}{Double}$$ $$\color{red}{winner}$$ $$\color{red}{of}$$ $$\color{red}{CMRxRecon2023}$$) [[News](https://www.cs.rutgers.edu/news-events/news/news-item/ph-d-students-bingyu-xin-and-meng-ye-awarded-two-accolades-at-miccai-conference)] [[Code](https://github.com/hellopipu/PromptMR)]
 
 [12] Neural Deformable Models for 3D Bi-Ventricular Heart Shape Reconstruction and Modeling from 2D Sparse Cardiac Magnetic Resonance Imaging.<br /> 
@@ -92,7 +92,7 @@ Qi Chang, Zhennan Yan, Meng Ye, Mikael Kanski, Subhi Al’Aref, Leon Axel, Dimit
 In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2021.
 
 [7] DeepTag: An Unsupervised Deep Learning Method for Motion Tracking on Cardiac Tagging Magnetic Resonance Images.<br />
-Meng Ye, Mikael Kanski, Dong Yang, Qi Chang, Zhennan Yan, Qiaoying Huang, Leon Axel, Dimitris Metaxas.<br />  
+Meng Ye, Mikael Kanski, Dong Yang, Qi Chang, Zhennan Yan, Qiaoying Huang, Leon Axel, Dimitris Metaxas.<br />
 In _IEEE Conference on Computer Vision and Pattern Recognition_ (***CVPR***), 2021. ($${\color{red}{Oral}}$$) [[Paper](https://arxiv.org/abs/2103.02772)] [[Code](https://github.com/DeepTag/cardiac_tagging_motion_estimation)] 
 
 [6] Deep Learning-assisted MRI Prediction of Tumor Response to Chemotherapy in Patients with Colorectal Liver Metastases.<br />
