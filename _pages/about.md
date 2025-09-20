@@ -64,7 +64,7 @@ Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas.\
 In _European Conference on Computer Vision_ (***ECCV***), 2024. ($${\color{red}{Oral}}$$) [[Code](https://github.com/hellopipu/PromptMR-plus)]
 
 [14] Unsupervised Exemplar-Based Image-to-Image Translation and Cascaded Vision Transformers for Tagged and Untagged Cardiac Cine MRI Registration.\ 
-Meng Ye, Mikael Kanski, Dong Yang, Leon Axel, Dimitris N. Metaxas.\ 
+Meng Ye, Mikael Kanski, Dong Yang, Leon Axel, Dimitris N. Metaxas.<br /> 
 In _IEEE Winter Conference on Applications of Computer Vision_ (***WACV***), 2024. [[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Ye_Unsupervised_Exemplar-Based_Image-to-Image_Translation_and_Cascaded_Vision_Transformers_for_Tagged_WACV_2024_paper.html)] [[Project page](https://github.com/DeepTag/ECaT)]
 
 [13] Fill the K-Space and Refine the Image: Prompting for Dynamic and Multi-Contrast MRI Reconstruction.\ 
