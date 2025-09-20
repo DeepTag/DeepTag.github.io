@@ -40,65 +40,84 @@ PhD Students:
 
 # Publications 
 [20] Learning Volumetric Neural Deformable Models to Recover 3D Regional Heart Wall Motion from Multi-Planar Tagged MRI.<br/> 
-Meng Ye, Bingyu Xin, Bangwei Guo, Leon Axel, Dimitris N. Metaxas. ***arXiv preprint***, 2025. [[Paper](https://arxiv.org/abs/2411.15233)] 
- [[Project page](https://github.com/DeepTag/VolumetricNeuralDeformableModels)]
+Meng Ye, Bingyu Xin, Bangwei Guo, Leon Axel, Dimitris N. Metaxas. 
+***arXiv preprint***, 2025. [[Paper](https://arxiv.org/abs/2411.15233)][[Project page](https://github.com/DeepTag/VolumetricNeuralDeformableModels)]
 
 [19] Analysis of Cardiac Dynamic Global Function.<br/> 
-Leon Axel, Mikael Kanski, Amit Jhaveri, Meng Ye, Bangwei Guo, Xiaoxiao He, Dimitris Metaxas. In _Functional Imaging and Modeling of the Heart_ (***FIMH***), 2025.
+Leon Axel, Mikael Kanski, Amit Jhaveri, Meng Ye, Bangwei Guo, Xiaoxiao He, Dimitris Metaxas. 
+In _Functional Imaging and Modeling of the Heart_ (***FIMH***), 2025.
  
 [18] VerSe: Integrating Multiple Queries as Prompts for Versatile Cardiac MRI Segmentation.<br/> 
-Bangwei Guo, Meng Ye, Yunhe Gao, Bingyu Xin, Leon Axel, Dimitris N. Metaxas. In _Information Processing in Medical Imaging_ (***IPMI***), 2025. [[Code](https://github.com/bangwayne/verse)]
+Bangwei Guo, Meng Ye, Yunhe Gao, Bingyu Xin, Leon Axel, Dimitris N. Metaxas. 
+In _Information Processing in Medical Imaging_ (***IPMI***), 2025. [[Code](https://github.com/bangwayne/verse)]
 
 [17] Continuous Spatio-Temporal Memory Networks for 4D Cardiac Cine MRI Segmentation.<br/>
-Meng Ye, Bingyu Xin, Leon Axel, Dimitris N. Metaxas. In _IEEE Winter Conference on Applications of Computer Vision_ (***WACV***), 2025. [[Paper](https://arxiv.org/abs/2410.23191)] [[Project page](https://github.com/DeepTag/CSTM)]
+Meng Ye, Bingyu Xin, Leon Axel, Dimitris N. Metaxas. 
+In _IEEE Winter Conference on Applications of Computer Vision_ (***WACV***), 2025. [[Paper](https://arxiv.org/abs/2410.23191)] [[Project page](https://github.com/DeepTag/CSTM)]
 
 [16] Enhanced Deep Unrolled Models Applied to the CMRxRecon2024 Challenge.<br/> 
-Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas. In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2024.  ($$\color{red}{Double}$$ $$\color{red}{winner}$$ $$\color{red}{of}$$ $$\color{red}{CMRxRecon2024}$$) [[News](https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024)]
+Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas. 
+In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2024.  ($$\color{red}{Double}$$ $$\color{red}{winner}$$ $$\color{red}{of}$$ $$\color{red}{CMRxRecon2024}$$) [[News](https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024)]
 
 [15] Rethinking Deep Unrolled Model for Accelerated MRI Reconstruction.<br/> 
-Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas. In _European Conference on Computer Vision_ (***ECCV***), 2024. ($${\color{red}{Oral}}$$) [[Code](https://github.com/hellopipu/PromptMR-plus)]
+Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas. 
+In _European Conference on Computer Vision_ (***ECCV***), 2024. ($${\color{red}{Oral}}$$) [[Code](https://github.com/hellopipu/PromptMR-plus)]
 
 [14] Unsupervised Exemplar-Based Image-to-Image Translation and Cascaded Vision Transformers for Tagged and Untagged Cardiac Cine MRI Registration.<br/> 
-Meng Ye, Mikael Kanski, Dong Yang, Leon Axel, Dimitris N. Metaxas. In _IEEE Winter Conference on Applications of Computer Vision_ (***WACV***), 2024. [[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Ye_Unsupervised_Exemplar-Based_Image-to-Image_Translation_and_Cascaded_Vision_Transformers_for_Tagged_WACV_2024_paper.html)] [[Project page](https://github.com/DeepTag/ECaT)]
+Meng Ye, Mikael Kanski, Dong Yang, Leon Axel, Dimitris N. Metaxas. 
+In _IEEE Winter Conference on Applications of Computer Vision_ (***WACV***), 2024. [[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Ye_Unsupervised_Exemplar-Based_Image-to-Image_Translation_and_Cascaded_Vision_Transformers_for_Tagged_WACV_2024_paper.html)] [[Project page](https://github.com/DeepTag/ECaT)]
 
 [13] Fill the K-Space and Refine the Image: Prompting for Dynamic and Multi-Contrast MRI Reconstruction.<br/> 
-Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas. In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2023. ($$\color{red}{Double}$$ $$\color{red}{winner}$$ $$\color{red}{of}$$ $$\color{red}{CMRxRecon2023}$$) [[News](https://www.cs.rutgers.edu/news-events/news/news-item/ph-d-students-bingyu-xin-and-meng-ye-awarded-two-accolades-at-miccai-conference)] [[Code](https://github.com/hellopipu/PromptMR)]
+Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas. 
+In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2023. ($$\color{red}{Double}$$ $$\color{red}{winner}$$ $$\color{red}{of}$$ $$\color{red}{CMRxRecon2023}$$) [[News](https://www.cs.rutgers.edu/news-events/news/news-item/ph-d-students-bingyu-xin-and-meng-ye-awarded-two-accolades-at-miccai-conference)] [[Code](https://github.com/hellopipu/PromptMR)]
 
 [12] Neural Deformable Models for 3D Bi-Ventricular Heart Shape Reconstruction and Modeling from 2D Sparse Cardiac Magnetic Resonance Imaging.<br/> 
-Meng Ye, Dong Yang, Mikael Kanski, Leon Axel, Dimitris N. Metaxas. In _IEEE International Conference on Computer Vision_ (***ICCV***), 2023. [[Paper](https://arxiv.org/abs/2307.07693)] [[Project page](https://github.com/DeepTag/NeuralDeformableModels)]
+Meng Ye, Dong Yang, Mikael Kanski, Leon Axel, Dimitris N. Metaxas. 
+In _IEEE International Conference on Computer Vision_ (***ICCV***), 2023. [[Paper](https://arxiv.org/abs/2307.07693)] [[Project page](https://github.com/DeepTag/NeuralDeformableModels)]
 
 [11] Deformer: Integrating Transformers with Deformable Models for 3D Shape Abstraction from A Single Image.<br/> 
-Di Liu, Xiang Yu, Meng Ye, Qilong Zhangli, Zhuowei Li, Zhixing Zhang, Dimitris N. Metaxas. In _IEEE International Conference on Computer Vision_ (***ICCV***), 2023.
+Di Liu, Xiang Yu, Meng Ye, Qilong Zhangli, Zhuowei Li, Zhixing Zhang, Dimitris N. Metaxas. 
+In _IEEE International Conference on Computer Vision_ (***ICCV***), 2023.
 
 [10] SequenceMorph: A Unified Unsupervised Learning Framework for Motion Tracking on Cardiac Image Sequences.<br/> 
-Meng Ye, Dong Yang, Qiaoying Huang, Mikael Kanski, Leon Axel, Dimitris N. Metaxas. In _IEEE Transactions on Pattern Analysis and Machine Intelligence_ (***TPAMI***), 2023. [[Project page](https://github.com/DeepTag/SequenceMorph)]
+Meng Ye, Dong Yang, Qiaoying Huang, Mikael Kanski, Leon Axel, Dimitris N. Metaxas. 
+In _IEEE Transactions on Pattern Analysis and Machine Intelligence_ (***TPAMI***), 2023. [[Project page](https://github.com/DeepTag/SequenceMorph)]
 
 [9] DeepRecon: Joint 2D Cardiac Segmentation and 3D Volume Reconstruction via A Structure-Specific Generative Method.<br/> 
-Qi Chang, Zhennan Yan, Mu Zhou, Di Liu, Khalid Sawalha, Meng Ye, Qilong Zhangli, Mikael Kanski, Subhi Al Aref, Leon Axel, Dimitris Metaxas. In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***), 2022.
+Qi Chang, Zhennan Yan, Mu Zhou, Di Liu, Khalid Sawalha, Meng Ye, Qilong Zhangli, Mikael Kanski, Subhi Al Aref, Leon Axel, Dimitris Metaxas. 
+In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***), 2022.
 
 [8] An unsupervised 3D recurrent neural network for slice misalignment correction in cardiac MR imaging.<br/> 
-Qi Chang, Zhennan Yan, Meng Ye, Mikael Kanski, Subhi Al’Aref, Leon Axel, Dimitris Metaxas. In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2021.
+Qi Chang, Zhennan Yan, Meng Ye, Mikael Kanski, Subhi Al’Aref, Leon Axel, Dimitris Metaxas. 
+In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2021.
 
 [7] DeepTag: An Unsupervised Deep Learning Method for Motion Tracking on Cardiac Tagging Magnetic Resonance Images.<br/> 
-Meng Ye, Mikael Kanski, Dong Yang, Qi Chang, Zhennan Yan, Qiaoying Huang, Leon Axel, Dimitris Metaxas. In _IEEE Conference on Computer Vision and Pattern Recognition_ (***CVPR***), 2021. ($${\color{red}{Oral}}$$) [[Paper](https://arxiv.org/abs/2103.02772)] [[Code](https://github.com/DeepTag/cardiac_tagging_motion_estimation)] 
+Meng Ye, Mikael Kanski, Dong Yang, Qi Chang, Zhennan Yan, Qiaoying Huang, Leon Axel, Dimitris Metaxas. 
+In _IEEE Conference on Computer Vision and Pattern Recognition_ (***CVPR***), 2021. ($${\color{red}{Oral}}$$) [[Paper](https://arxiv.org/abs/2103.02772)] [[Code](https://github.com/DeepTag/cardiac_tagging_motion_estimation)] 
 
 [6] Deep Learning-assisted MRI Prediction of Tumor Response to Chemotherapy in Patients with Colorectal Liver Metastases.<br/> 
-Haibin Zhu*, Da Xu*, Meng Ye, Li Sun, Xiaoyan Zhang, Xiaoting Li, Pei Nie, Baocai Xing, Yingshi Sun. In ***International Journal of Cancer (IJC)***, 2021. [[Paper](https://drive.google.com/file/d/1w3lqOuUtP_wjbqlmM90aZ7NYujL77jDc/view)]
+Haibin Zhu*, Da Xu*, Meng Ye, Li Sun, Xiaoyan Zhang, Xiaoting Li, Pei Nie, Baocai Xing, Yingshi Sun. 
+In ***International Journal of Cancer (IJC)***, 2021. [[Paper](https://drive.google.com/file/d/1w3lqOuUtP_wjbqlmM90aZ7NYujL77jDc/view)]
 
 [5] Cardiac MR Image Sequence Segmentation with Temporal Motion Encoding.<br/> 
-Pengxiang Wu, Qiaoying Huang, Jingru Yi, Hui Qu, Meng Ye, Leon Axel, Dimitris N. Metaxas. In _European Conference on Computer Vision_ (***ECCV***) _Workshop_ ***BIC***, 2020.
+Pengxiang Wu, Qiaoying Huang, Jingru Yi, Hui Qu, Meng Ye, Leon Axel, Dimitris N. Metaxas. 
+In _European Conference on Computer Vision_ (***ECCV***) _Workshop_ ***BIC***, 2020.
 
 [4] PC-U Net: Learning to Jointly Reconstruct and Segment the Cardiac Walls in 3D from CT Data.<br/> 
-Meng Ye, Qiaoying Huang, Dong Yang, Pengxiang Wu, Jingru Yi, Leon Axel, Dimitris Metaxas. In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2020. [[Paper](https://arxiv.org/pdf/2008.08194)]  
+Meng Ye, Qiaoying Huang, Dong Yang, Pengxiang Wu, Jingru Yi, Leon Axel, Dimitris Metaxas. 
+In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2020. [[Paper](https://arxiv.org/pdf/2008.08194)]  
 
 [3] Predicting Rectal Cancer Response to Neoadjuvant Chemoradiotherapy Using Deep Learning of Diffusion Kurtosis MRI.<br/> 
-Xiaoyan Zhang*, Lin Wang*, Haitao Zhu, Zhongwu Li, Meng Ye, Xiaoting Li, Yanjie Shi, Huici Zhu, Yingshi Sun. In ***Radiology***, 2020. [[Paper](https://drive.google.com/file/d/1DQJEs42heq20V5Rv0A-Pm-7klG5BB0-D/view)] [[Editorial Commentary](https://drive.google.com/file/d/19SOxD2V1MvB2H59Gr0eB4ehATx2sr8Ut/view)]
+Xiaoyan Zhang*, Lin Wang*, Haitao Zhu, Zhongwu Li, Meng Ye, Xiaoting Li, Yanjie Shi, Huici Zhu, Yingshi Sun. 
+In ***Radiology***, 2020. [[Paper](https://drive.google.com/file/d/1DQJEs42heq20V5Rv0A-Pm-7klG5BB0-D/view)] [[Editorial Commentary](https://drive.google.com/file/d/19SOxD2V1MvB2H59Gr0eB4ehATx2sr8Ut/view)]
 
 [2] Prediction of Pathological Complete Response to Neoadjuvant Chemotherapy in Breast Cancer Using Deep Learning (DL) Method.<br/> 
-Yuhong Qu*, Haitao Zhu*, Kun Cao, Xiaoting Li, Meng Ye, Yingshi Sun. In ***Thoracic Cancer***, 2020. [[Paper](https://drive.google.com/file/d/10f_ynt06HVN2oi-1MJNBDXeUw_QM8BIk/view)]
+Yuhong Qu*, Haitao Zhu*, Kun Cao, Xiaoting Li, Meng Ye, Yingshi Sun. 
+In ***Thoracic Cancer***, 2020. [[Paper](https://drive.google.com/file/d/10f_ynt06HVN2oi-1MJNBDXeUw_QM8BIk/view)]
 
 [1] Feasibility Study of Whole Heart T1 Mapping with SMS in A Single Breath Hold.<br/> 
-Wenbo Sun*, Meng Ye*, Yuan Zheng, Lele Zhao, Nan Liu, Yanqun Teng, Lan Lan, Jian Xu, Haibo Xu. In _Joint Annual Meeting_ ***ISMRM-ESMRMB***, 2018. [[Poster](https://cds.ismrm.org/protected/18MProceedings/PDFfiles/4880.html)]
+Wenbo Sun*, Meng Ye*, Yuan Zheng, Lele Zhao, Nan Liu, Yanqun Teng, Lan Lan, Jian Xu, Haibo Xu. 
+In _Joint Annual Meeting_ ***ISMRM-ESMRMB***, 2018. [[Poster](https://cds.ismrm.org/protected/18MProceedings/PDFfiles/4880.html)]
 
 # Honors and Awards
 - *2024.10* Double champion of the CMRxRecon2024 challenge [[News](https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024)]. 
