@@ -21,9 +21,9 @@ I am currently an Assistant Professor of Computer Science and Engineering at The
 
 I lead the **CLIMB** group at UTA. Our group mainly focuses on novel AI methods of **C**omputing, **L**earning, **I**maging and **M**odeling for **B**iomedicine, with a special interest in the human heart. Current involved research projects are:
 - Computer vision and medical image computing: image segmentation, motion tracking, image registration, image generation, 3D shape modeling and 4D dynamic analysis.
-- Cardiac modeling: simulation of the heart's function in both healthy and diseased states, including electrical conduction, mechanical contraction, and blood flow. 
 - Low level learning tasks and inverse problems: image reconstruction, denoising and super resolution.
-- Fast imaging: novel MRI pulse sequences.
+- Medical imaging: novel MRI pulse sequences.
+- Cardiac modeling: simulation of the heart's function in both healthy and diseased states, including electrical conduction, mechanical contraction, and blood flow. 
 
 Our group is always looking for self-motivated and talent PhD students to work on medical imaging, machine learning, computer vision and AI techniques for healthcare applications. Students with a background in Computer Science, Biomedical Engineering (especially for MRI pulse sequences), Electrical Engineering, Automation, or related fields are welcome to drop me an email with your CV and publications (if any). Please note I may not be able to respond to every message due to limited time. [[Flyer](https://drive.google.com/file/d/1Ns8hvAXAwldj_Mdr8pCjCH1ccQUury-j/view?usp=sharing)] [[UTA CSE PhD Admission Requirements](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/phd)]
 
