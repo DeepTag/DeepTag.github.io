@@ -30,6 +30,7 @@ Our group is always looking for self-motivated and talent PhD students to work o
 [$\color{red}{New}$ $\color{red}{Opennings!}$] For Fall 2026 CS PhD student recruitment, we will have 1 for computer vision/medical image computing, and 1 for AI-augmented Cardiac MRI imaging.
 
 # News
+- *2025.09*: Two first-place awards (SSIM) for the CMRxRecon2025 challenge. Big congratulations to Bingyu!
 - *2025.08*: Started being an Assistant Professor of CSE Department at UTA. 
 - *2025.03*: I will be an Assistant Professor of Computer Science Engineering Department at The University of Texas at Arlington starting from Fall 2025.
 
@@ -120,6 +121,7 @@ Wenbo Sun*, Meng Ye*, Yuan Zheng, Lele Zhao, Nan Liu, Yanqun Teng, Lan Lan, Jian
 In _Joint Annual Meeting_ ***ISMRM-ESMRMB***, 2018. [[Poster](https://cds.ismrm.org/protected/18MProceedings/PDFfiles/4880.html)]
 
 # Honors and Awards
+- *2025.9* Champion of the CMRxRecon2025 challenge [[News](https://www.synapse.org/Synapse:syn59814210/wiki/635078)]. 
 - *2024.10* Double champion of the CMRxRecon2024 challenge [[News](https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024)]. 
 - *2023.10* Double champion of the CMRxRecon2023 challenge [[News](https://www.cs.rutgers.edu/news-events/news/news-item/ph-d-students-bingyu-xin-and-meng-ye-awarded-two-accolades-at-miccai-conference)]. 
 
