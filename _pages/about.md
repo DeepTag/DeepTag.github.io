@@ -37,7 +37,12 @@ Our group is always looking for self-motivated and talent PhD students to work o
 # Group Members
 PhD Students:
 - Chenchuhui Hu (Starting in Fall 2025, Previous: BS, UC Davis; MS, Brandeis University) 
-- Shaoming Pan  (Starting in Fall 2025, Previous: BE, Shanghai Jiao Tong University) 
+- Shaoming Pan  (Starting in Fall 2025, Previous: BE, Shanghai Jiao Tong University)
+
+# External Members
+PhD Students:
+- Bangwei Guo (Rutgers CS) 
+- [Bingyu Xin](https://hellopipu.github.io/) (Rutgers CS) 
 
 # Publications 
 [20] Learning Volumetric Neural Deformable Models to Recover 3D Regional Heart Wall Motion from Multi-Planar Tagged MRI.<br />
