@@ -39,8 +39,7 @@ PhD Students:
 - Chenchuhui Hu (Starting in Fall 2025, Previous: BS, UC Davis; MS, Brandeis University) 
 - Shaoming Pan  (Starting in Fall 2025, Previous: BE, Shanghai Jiao Tong University)
 
-# External Members
-PhD Students:
+External PhD Students:
 - Bangwei Guo (Rutgers CS) 
 - [Bingyu Xin](https://hellopipu.github.io/) (Rutgers CS) 
 
