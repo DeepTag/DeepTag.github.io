@@ -48,7 +48,7 @@ External PhD Students:
 # Publications 
 [21] **K-Prism: A Knowledge-Guided and Prompt Integrated Universal Medical Image Segmentation Model**.<br />
 Bangwei Guo, Yunhe Gao, Meng Ye, Difei Gu, Yang Zhou, Leon Axel, Dimitris N. Metaxas.<br />
-In ***arXiv preprint***, 2025.
+In ***ICLR***, 2026.
 
 [20] **Learning Volumetric Neural Deformable Models to Recover 3D Regional Heart Wall Motion from Multi-Planar Tagged MRI**.<br />
 Meng Ye, Bingyu Xin, Bangwei Guo, Leon Axel, Dimitris N. Metaxas.<br />
