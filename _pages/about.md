@@ -30,7 +30,9 @@ Our group is always looking for self-motivated and talent PhD students to work o
 [$\color{red}{New}$ $\color{red}{Opennings!}$] For Fall 2026 CS PhD student recruitment, we will have 1 for computer vision/medical image computing, and 1 for AI-augmented Cardiac MRI imaging.
 
 # News
-- *2025.09*: Two first-place awards (SSIM) for the CMRxRecon2025 challenge. Big congratulations to Bingyu!
+- *2026.01*: 1 paper accepted to ICLR 2026.
+- *2025.10*: Invited to serve as an area chair for MIDL 2026.
+- *2025.09*: Two first-place awards (SSIM) for the CMRxRecon2025 challenge. Congratulations to Bingyu!
 - *2025.08*: Started being an Assistant Professor of CSE Department at UTA. 
 - *2025.03*: I will be an Assistant Professor of Computer Science Engineering Department at The University of Texas at Arlington starting from Fall 2025.
 
