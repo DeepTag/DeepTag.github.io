@@ -40,7 +40,11 @@ Our group is always looking for self-motivated and talent PhD students to work o
 <!-- - **2026.01:** &nbsp;🎉🎉 1 paper accepted to ICLR 2026.
 - **2024.06:** &nbsp;🎉🎉 Invited to serve as an area chair for MIDL 2026.
 - **2025.10:** &nbsp;🎉🎉 Two first-place awards (SSIM) for the CMRxRecon2025 challenge. Congratulations to Bingyu!
-- **2025.08:** &nbsp;🎉🎉 Started being an Assistant Professor of CSE Department at UTA. -->
+- **2025.08:** &nbsp;🎉🎉 Started being an Assistant Professor of CSE Department at UTA. 
+- **2024.06:** &nbsp;🎉🎉 Start my remote research internship in [CS@Purdue University](https://www.cs.purdue.edu/), collaborating with [Dr. Ruqi Zhang](https://ruqizhang.github.io/). 
+- **2024.05:** &nbsp;🎉🎉 Successfully defended my Master thesis!
+- **2024.04:** &nbsp;🎉🎉 I will join [CS@Purdue University](https://www.cs.purdue.edu/) as a research intern in June 2024.
+- **2024.01:** &nbsp;🎉🎉 One paper has been accepted by [GRSL 2024](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859"). -->
 <div style="max-height: 50px; overflow-y: auto;">
 <ul>
   <li><em>2025.07:</em> &nbsp;🎉🎉 Our <a href="https://arxiv.org/abs/2507.16534">Frontier AI Risk Management Framework</a> has been released. I participated in exploring self-replication risks in LLM Agents.</li>
