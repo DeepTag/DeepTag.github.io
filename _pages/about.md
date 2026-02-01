@@ -76,7 +76,7 @@ In _International Conference on Medical Image Computing and Computer Assisted In
 
 [16] **Enhanced Deep Unrolled Models Applied to the CMRxRecon2024 Challenge**.<br /> 
 Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas.<br />
-In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2024.  ($$\color{red}{Double}$$ $$\color{red}{winner}$$ $$\color{red}{of}$$ $$\color{red}{CMRxRecon2024}$$) (<font color=Red>Double winner of CMRxRecon 2024<font color=Red>.</font>)[[News](https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024)]
+In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2024.  ($$\color{red}{Double}$$ $$\color{red}{winner}$$ $$\color{red}{of}$$ $$\color{red}{CMRxRecon2024}$$) **\[<font color="#993333">Double winner of CMRxRecon 2024</font>\]**[[News](https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024)]
 
 [15] **Rethinking Deep Unrolled Model for Accelerated MRI Reconstruction**.<br />
 Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas.<br />
