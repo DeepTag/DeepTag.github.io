@@ -36,6 +36,33 @@ Our group is always looking for self-motivated and talent PhD students to work o
 - *2025.08*: Started being an Assistant Professor of CSE Department at UTA. 
 - *2025.03*: I will be an Assistant Professor of Computer Science Engineering Department at The University of Texas at Arlington starting from Fall 2025.
 
+# 🔥 News
+<!-- - **2024.09:** &nbsp;🎉🎉 Our paper titled "What If the Input is Expanded in OOD Detection?" has been accepted by [NeurIPS 2024](https://neurips.cc/) 
+- **2024.06:** &nbsp;🎉🎉 Start my remote research internship in [CS@Purdue University](https://www.cs.purdue.edu/), collaborating with [Dr. Ruqi Zhang](https://ruqizhang.github.io/). 
+- **2024.05:** &nbsp;🎉🎉 Successfully defended my Master thesis!
+- **2024.04:** &nbsp;🎉🎉 I will join [CS@Purdue University](https://www.cs.purdue.edu/) as a research intern in June 2024.
+- **2024.01:** &nbsp;🎉🎉 One paper has been accepted by [GRSL 2024](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859").
+- **2023.11:** &nbsp;🎉🎉 I will join [TMLR Group@ HKBU](https://github.com/tmlr-group) as a research intern. -->
+<div style="max-height: 200px; overflow-y: auto;">
+<ul>
+  <li><em>2025.11:</em> &nbsp;🎉🎉 Excited to share our <a href="https://arxiv.org/abs/2509.25302">Agent Matrix</a> featured in several tech blogs, including <a href="https://ai.gopubby.com/from-chatbots-to-clones-the-strange-evolution-of-ai-autonomy-2c0f131645ee">From Chatbots to Clones</a> and <a href="https://ai.gopubby.com/ai-just-learned-to-clone-itself-not-out-of-malice-but-out-of-stress-2f9c9bc86b3b">AI Just Learned to Clone Itself</a>. Great to see growing attention to this emerging topic!</li>
+  <li><em>2025.07:</em> &nbsp;🎉🎉 Our <a href="https://arxiv.org/abs/2507.16534">Frontier AI Risk Management Framework</a> has been released. I participated in exploring self-replication risks in LLM Agents.</li>
+  <li><em>2025.05:</em> &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2502.17214">CoT-UQ</a> has been accepted by <a href="https://2025.aclweb.org/">ACL 2025</a>.</li>
+  <li><em>2025.04:</em> &nbsp;🎉🎉 I will serve as a reviewer for NeurIPS 2025.</li>
+  <li><em>2025.02:</em> &nbsp;🎉🎉 Check our two preprint works regarding LLMs! One investigates <a href="https://arxiv.org/abs/2502.17214">Uncertainty Quantification in LLMs</a>, and the other explores <a href="https://arxiv.org/abs/2503.02851">Connections between Creativity and Hallucination in LLMs</a>.</li>
+  <li><em>2025.02:</em> &nbsp;🎉🎉 I will join <a href="https://www.cs.rutgers.edu/">CS@Rutgers University</a> as a PhD student in 2025 Fall, supervised by <a href="https://www.ruixiangtang.net/">Prof. Ryan Tang</a>!</li>
+  <li><em>2024.09:</em> &nbsp;🎉🎉 Our paper titled "What If the Input is Expanded in OOD Detection?" has been accepted by <a href="https://neurips.cc/">NeurIPS 2024</a>.</li>
+  <li><em>2024.06:</em> &nbsp;🎉🎉 Start my remote research internship in <a href="https://www.cs.purdue.edu/">CS@Purdue University</a>, collaborating with <a href="https://ruqizhang.github.io/">Dr. Ruqi Zhang</a>.</li>
+  <li><em>2024.05:</em> &nbsp;🎉🎉 Successfully defended my Master thesis!</li>
+  <li><em>2024.04:</em> &nbsp;🎉🎉 I will join <a href="https://www.cs.purdue.edu/">CS@Purdue University</a> as a research intern in June 2024.</li>
+  <li><em>2024.01:</em> &nbsp;🎉🎉 One paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859">GRSL 2024</a>.</li>
+  <li><em>2023.11:</em> &nbsp;🎉🎉 I will join <a href="https://github.com/tmlr-group">TMLR Group@ HKBU</a> as a research intern.</li>
+  <li><em>2023.10:</em> &nbsp;🎉🎉 Honored to receive <a href="http://www.csrme.com/Home/Content/show/id/4432.do">3rd Prize</a> @ TBM Machine Learning Competition.</li>
+  <li><em>2023.10:</em> &nbsp;🎉🎉 Attend 2nd TBM Machine Learning Competition(held by <a href="http://www.csrme.com/">CSRME</a>) and present research work @ Shanghai.</li>
+  <li><em>2023.09:</em> &nbsp;🎉🎉 Start my second-year research & learning journey in WHU.</li>
+</ul>
+</div>
+
 # News
 <!-- - **2026.01:** 1 paper accepted to ICLR 2026.
 - **2025.10:** Invited to serve as an area chair for MIDL 2026. 
