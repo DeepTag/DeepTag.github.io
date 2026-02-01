@@ -76,7 +76,7 @@ In _International Conference on Medical Image Computing and Computer Assisted In
 
 [15] **Rethinking Deep Unrolled Model for Accelerated MRI Reconstruction**.<br />
 Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas.<br />
-In _European Conference on Computer Vision_ (***ECCV***), 2024. ($${\color{red}{Oral}}$$) [[Code](https://github.com/hellopipu/PromptMR-plus)]
+In _European Conference on Computer Vision_ (***ECCV***), 2024. (<font color="#f03c15">Oral</font>\) [[Code](https://github.com/hellopipu/PromptMR-plus)]
 
 [14] **Unsupervised Exemplar-Based Image-to-Image Translation and Cascaded Vision Transformers for Tagged and Untagged Cardiac Cine MRI Registration**.<br /> 
 Meng Ye, Mikael Kanski, Dong Yang, Leon Axel, Dimitris N. Metaxas.<br /> 
@@ -108,7 +108,7 @@ In _International Conference on Medical Image Computing and Computer Assisted In
 
 [7] **DeepTag: An Unsupervised Deep Learning Method for Motion Tracking on Cardiac Tagging Magnetic Resonance Images**.<br />
 Meng Ye, Mikael Kanski, Dong Yang, Qi Chang, Zhennan Yan, Qiaoying Huang, Leon Axel, Dimitris Metaxas.<br />
-In _IEEE Conference on Computer Vision and Pattern Recognition_ (***CVPR***), 2021. ($${\color{red}{Oral}}$$) [[Paper](https://arxiv.org/abs/2103.02772)] [[Code](https://github.com/DeepTag/cardiac_tagging_motion_estimation)] 
+In _IEEE Conference on Computer Vision and Pattern Recognition_ (***CVPR***), 2021. (<font color="#f03c15">Oral</font>\) [[Paper](https://arxiv.org/abs/2103.02772)] [[Code](https://github.com/DeepTag/cardiac_tagging_motion_estimation)] 
 
 [6] **Deep Learning-assisted MRI Prediction of Tumor Response to Chemotherapy in Patients with Colorectal Liver Metastases**.<br />
 Haibin Zhu*, Da Xu*, Meng Ye, Li Sun, Xiaoyan Zhang, Xiaoting Li, Pei Nie, Baocai Xing, Yingshi Sun.<br />
