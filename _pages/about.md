@@ -33,6 +33,7 @@ Our group is always looking for self-motivated and talent PhD students to work o
   <li><em>2026.01:</em> &nbsp; 1 paper accepted to ICLR 2026.</li>
   <li><em>2025.10:</em> &nbsp; Invited to serve as an area chair for MIDL 2026.</li>
   <li><em>2025.09:</em> &nbsp; Two first-place awards (SSIM) for the CMRxRecon2025 challenge. Congratulations to Bingyu!</li>
+  <li><em>2025.08:</em> &nbsp; Shaoming and Chuhui joined in our group. Welcome!</li>
   <li><em>2025.08:</em> &nbsp; Started being an Assistant Professor of CSE Department at UTA.</li>
   <li><em>2025.03:</em> &nbsp; I will be an Assistant Professor of Computer Science Engineering Department at The University of Texas at Arlington starting from Fall 2025.</li>
 </ul>
