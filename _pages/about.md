@@ -43,10 +43,10 @@ Our group is always looking for self-motivated and talent PhD students to work o
 - **2025.08:** &nbsp;🎉🎉 Started being an Assistant Professor of CSE Department at UTA. -->
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2025.03:</em> &nbsp;🎉🎉 I will be an Assistant Professor of Computer Science Engineering Department at The University of Texas at Arlington starting from Fall 2025.</li>
   <li><em>2025.07:</em> &nbsp;🎉🎉 Our <a href="https://arxiv.org/abs/2507.16534">Frontier AI Risk Management Framework</a> has been released. I participated in exploring self-replication risks in LLM Agents.</li>
   <li><em>2025.05:</em> &nbsp;🎉🎉 <a href="https://arxiv.org/abs/2502.17214">CoT-UQ</a> has been accepted by <a href="https://2025.aclweb.org/">ACL 2025</a>.</li>
   <li><em>2025.04:</em> &nbsp;🎉🎉 I will serve as a reviewer for NeurIPS 2025.</li>
+  <li><em>2025.03:</em> &nbsp;🎉🎉 I will be an Assistant Professor of Computer Science Engineering Department at The University of Texas at Arlington starting from Fall 2025.</li>
   <li><em>2025.02:</em> &nbsp;🎉🎉 Check our two preprint works regarding LLMs! One investigates <a href="https://arxiv.org/abs/2502.17214">Uncertainty Quantification in LLMs</a>, and the other explores <a href="https://arxiv.org/abs/2503.02851">Connections between Creativity and Hallucination in LLMs</a>.</li>
   <li><em>2025.02:</em> &nbsp;🎉🎉 I will join <a href="https://www.cs.rutgers.edu/">CS@Rutgers University</a> as a PhD student in 2025 Fall, supervised by <a href="https://www.ruixiangtang.net/">Prof. Ryan Tang</a>!</li>
   <li><em>2024.09:</em> &nbsp;🎉🎉 Our paper titled "What If the Input is Expanded in OOD Detection?" has been accepted by <a href="https://neurips.cc/">NeurIPS 2024</a>.</li>
