@@ -72,11 +72,7 @@ In _IEEE Winter Conference on Applications of Computer Vision_ (***WACV***), 202
 
 [16] **Enhanced Deep Unrolled Models Applied to the CMRxRecon2024 Challenge**.<br /> 
 Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas.<br />
-In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2024.  ($$\color{red}{Double}$$ $$\color{red}{winner}$$ $$\color{red}{of}$$ $$\color{red}{CMRxRecon2024}$$) [[News](https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024)]
-
-[16] **Enhanced Deep Unrolled Models Applied to the CMRxRecon2024 Challenge**.<br /> 
-Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas.<br />
-In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2024.  ($$\color{red}{Double}$$ $$\color{red}{winner}$$ $$\color{red}{of}$$ $$\color{red}{CMRxRecon2024}$$) (<font color="#f03c15">Double winner of CMRxRecon 2024</font>\)[[News](https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024)]
+In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2024.(<font color="#f03c15">Double winner of CMRxRecon 2024</font>\)[[News](https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024)]
 
 [15] **Rethinking Deep Unrolled Model for Accelerated MRI Reconstruction**.<br />
 Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas.<br />
@@ -88,7 +84,7 @@ In _IEEE Winter Conference on Applications of Computer Vision_ (***WACV***), 202
 
 [13] **Fill the K-Space and Refine the Image: Prompting for Dynamic and Multi-Contrast MRI Reconstruction**.<br /> 
 Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas.<br />
-In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2023. ($$\color{red}{Double}$$ $$\color{red}{winner}$$ $$\color{red}{of}$$ $$\color{red}{CMRxRecon2023}$$) [[News](https://www.cs.rutgers.edu/news-events/news/news-item/ph-d-students-bingyu-xin-and-meng-ye-awarded-two-accolades-at-miccai-conference)] [[Code](https://github.com/hellopipu/PromptMR)]
+In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2023. (<font color="#f03c15">Double winner of CMRxRecon 2023</font>\) [[News](https://www.cs.rutgers.edu/news-events/news/news-item/ph-d-students-bingyu-xin-and-meng-ye-awarded-two-accolades-at-miccai-conference)] [[Code](https://github.com/hellopipu/PromptMR)]
 
 [12] **Neural Deformable Models for 3D Bi-Ventricular Heart Shape Reconstruction and Modeling from 2D Sparse Cardiac Magnetic Resonance Imaging**.<br /> 
 Meng Ye, Dong Yang, Mikael Kanski, Leon Axel, Dimitris N. Metaxas.<br /> 
