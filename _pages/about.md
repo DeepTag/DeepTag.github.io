@@ -27,8 +27,6 @@ I lead the **CLIMB** group at UTA. Our group mainly focuses on novel AI methods 
 
 Our group is always looking for self-motivated and talent PhD students to work on medical imaging, machine learning, computer vision and AI techniques for healthcare applications. Students with a background in Computer Science, Biomedical Engineering (especially for MRI pulse sequences), Electrical Engineering, Automation, or related fields are welcome to drop me an email with your CV and publications (if any). Please note I may not be able to respond to every message due to limited time. [[Flyer](https://drive.google.com/file/d/1Ns8hvAXAwldj_Mdr8pCjCH1ccQUury-j/view?usp=sharing)] [[UTA CSE PhD Admission Requirements](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/phd)]
 
-[$\color{red}{New}$ $\color{red}{Opennings!}$] For Fall 2026 CS PhD student recruitment, we will have 1 for computer vision/medical image computing, and 1 for AI-augmented Cardiac MRI imaging.
-
 # News
 <div style="max-height: 150px; overflow-y: auto;">
 <ul>
