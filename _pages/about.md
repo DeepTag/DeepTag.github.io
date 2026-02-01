@@ -30,35 +30,13 @@ Our group is always looking for self-motivated and talent PhD students to work o
 [$\color{red}{New}$ $\color{red}{Opennings!}$] For Fall 2026 CS PhD student recruitment, we will have 1 for computer vision/medical image computing, and 1 for AI-augmented Cardiac MRI imaging.
 
 # News
-- *2026.01*: 1 paper accepted to ICLR 2026.
-- *2025.10*: Invited to serve as an area chair for MIDL 2026.
-- *2025.09*: Two first-place awards (SSIM) for the CMRxRecon2025 challenge. Congratulations to Bingyu!
-- *2025.08*: Started being an Assistant Professor of CSE Department at UTA. 
-- *2025.03*: I will be an Assistant Professor of Computer Science Engineering Department at The University of Texas at Arlington starting from Fall 2025.
-
-# News
-<div style="max-height: 100px; overflow-y: auto;">
+<div style="max-height: 150px; overflow-y: auto;">
 <ul>
   <li><em>2026.01:</em> &nbsp; 1 paper accepted to ICLR 2026.</li>
   <li><em>2025.10:</em> &nbsp; Invited to serve as an area chair for MIDL 2026.</li>
   <li><em>2025.09:</em> &nbsp; Two first-place awards (SSIM) for the CMRxRecon2025 challenge. Congratulations to Bingyu!</li>
   <li><em>2025.08:</em> &nbsp; Started being an Assistant Professor of CSE Department at UTA.</li>
   <li><em>2025.03:</em> &nbsp; I will be an Assistant Professor of Computer Science Engineering Department at The University of Texas at Arlington starting from Fall 2025.</li>
-</ul>
-</div>
-
-# 🔥 News
-<!-- - **2026.01:** &nbsp;🎉🎉 1 paper accepted to ICLR 2026.
-- **2024.06:** &nbsp;🎉🎉 Invited to serve as an area chair for MIDL 2026.
-- **2025.10:** &nbsp;🎉🎉 Two first-place awards (SSIM) for the CMRxRecon2025 challenge. Congratulations to Bingyu!
-- **2025.08:** &nbsp;🎉🎉 Started being an Assistant Professor of CSE Department at UTA. -->
-<div style="max-height: 200px; overflow-y: auto;">
-<ul>
-  <li><em>2026.01:</em> &nbsp;🎉🎉 1 paper accepted to ICLR 2026.</li>
-  <li><em>2025.10:</em> &nbsp;🎉🎉 Invited to serve as an area chair for MIDL 2026.</li>
-  <li><em>2025.09:</em> &nbsp;🎉🎉 Two first-place awards (SSIM) for the CMRxRecon2025 challenge. Congratulations to Bingyu!</li>
-  <li><em>2025.08:</em> &nbsp;🎉🎉 Started being an Assistant Professor of CSE Department at UTA.</li>
-  <li><em>2025.03:</em> &nbsp;🎉🎉 I will be an Assistant Professor of Computer Science Engineering Department at The University of Texas at Arlington starting from Fall 2025.</li>
 </ul>
 </div>
 
@@ -95,6 +73,9 @@ In _IEEE Winter Conference on Applications of Computer Vision_ (***WACV***), 202
 [16] **Enhanced Deep Unrolled Models Applied to the CMRxRecon2024 Challenge**.<br /> 
 Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas.<br />
 In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2024.  ($$\color{red}{Double}$$ $$\color{red}{winner}$$ $$\color{red}{of}$$ $$\color{red}{CMRxRecon2024}$$) [[News](https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024)]
+
+## **<font color=FireBrick>If you share the same research interests with me and are intereted in these areas or my previous works, feel free to drop me an <a href="mailto:bz362@rutgers.edu"><font color=DarkSlateBlue>Email</font></a> or add my</font> [<font color=DarkSlateBlue>Wechat</font>](images/IMG_2944.JPG)** <font color=FireBrick>. I am always delighted for potential collaborations!</font>
+
 
 [15] **Rethinking Deep Unrolled Model for Accelerated MRI Reconstruction**.<br />
 Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas.<br />
