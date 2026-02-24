@@ -45,7 +45,7 @@ PhD Students:
 - Shaoming Pan  (Starting in Fall 2025, Previous: BE, Shanghai Jiao Tong University)
 
 External PhD Students:
-- Bangwei Guo (Rutgers CS) 
+- [Bangwei](https://bangwayne.github.io/) Guo (Rutgers CS) 
 - [Bingyu Xin](https://hellopipu.github.io/) (Rutgers CS) 
 
 # Publications 
