@@ -134,7 +134,7 @@ Wenbo Sun*, Meng Ye*, Yuan Zheng, Lele Zhao, Nan Liu, Yanqun Teng, Lan Lan, Jian
 In _Joint Annual Meeting_ ***ISMRM-ESMRMB***, 2018. [[Poster](https://cds.ismrm.org/protected/18MProceedings/PDFfiles/4880.html)]
 
 # Honors and Awards
-- *2025.9* Champion of the CMRxRecon2025 challenge [[News](https://www.synapse.org/Synapse:syn59814210/wiki/635078)]. 
+- *2025.09* Champion of the CMRxRecon2025 challenge [[News](https://www.synapse.org/Synapse:syn59814210/wiki/635078)]. 
 - *2024.10* Double champion of the CMRxRecon2024 challenge [[News](https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024)]. 
 - *2023.10* Double champion of the CMRxRecon2023 challenge [[News](https://www.cs.rutgers.edu/news-events/news/news-item/ph-d-students-bingyu-xin-and-meng-ye-awarded-two-accolades-at-miccai-conference)]. 
 
