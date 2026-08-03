@@ -30,7 +30,7 @@ Our group is always looking for self-motivated and talent PhD students to work o
 # News
 <div style="max-height: 300px; overflow-y: auto;">
 <ul>
-  <li><em>2026.01:</em> &nbsp; 2 papers accepted to STACOM 2026. Both are orals!</li>
+  <li><em>2026.08:</em> &nbsp; 2 papers accepted to STACOM 2026. Both are orals!</li>
   <li><em>2026.01:</em> &nbsp; 1 paper accepted to ICLR 2026. Congratulations to Bangwei!</li>
   <li><em>2025.10:</em> &nbsp; Invited to serve as an area chair for <a href="https://2026.midl.io/">MIDL 2026</a>.</li>
   <li><em>2025.09:</em> &nbsp; Two first-place awards (SSIM) for the CMRxRecon2025 challenge. Congratulations to Bingyu!</li>
