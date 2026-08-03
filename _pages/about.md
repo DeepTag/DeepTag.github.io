@@ -49,7 +49,7 @@ External PhD Students:
 - [Bangwei Guo](https://bangwayne.github.io/) (Rutgers CS) 
 
 Alumni:
-- [Bingyu Xin](https://hellopipu.github.io/) (Rutgers CS 2026, Now at Meta)
+- [Bingyu Xin](https://hellopipu.github.io/) (PhD Rutgers CS 2026, Now at Meta)
 
 # Publications 
 [23] **Bi-PT: Bidirectional Cross-Attention Point Transformers for Four-Chamber Heart Reconstruction from Sparse Cardiac MRI Data**.<br />
