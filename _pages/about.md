@@ -30,6 +30,7 @@ Our group is always looking for self-motivated and talent PhD students to work o
 # News
 <div style="max-height: 300px; overflow-y: auto;">
 <ul>
+  <li><em>2026.01:</em> &nbsp; 2 papers accepted to STACOM 2026. Both are orals!</li>
   <li><em>2026.01:</em> &nbsp; 1 paper accepted to ICLR 2026. Congratulations to Bangwei!</li>
   <li><em>2025.10:</em> &nbsp; Invited to serve as an area chair for <a href="https://2026.midl.io/">MIDL 2026</a>.</li>
   <li><em>2025.09:</em> &nbsp; Two first-place awards (SSIM) for the CMRxRecon2025 challenge. Congratulations to Bingyu!</li>
@@ -49,6 +50,14 @@ External PhD Students:
 - [Bingyu Xin](https://hellopipu.github.io/) (Rutgers CS) 
 
 # Publications 
+[23] **Bi-PT: Bidirectional Cross-Attention Point Transformers for Four-Chamber Heart Reconstruction from Sparse Cardiac MRI Data**.<br />
+Chenchuhui Hu, Shaoming Pan, Leon Axel, Meng Ye.<br />
+In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2026. (<font color="#f03c15">Oral</font>\) [[Code](https://github.com/Chenchuhui/Bi-PT)]
+
+[22] **Cardiac MRI Through-Plane Super-Resolution Guided by Reference and Memory**.<br />
+Shaoming Pan, Chenchuhui Hu, Leon Axel, Meng Ye.<br />
+In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2026. (<font color="#f03c15">Oral</font>\) [[Code](https://github.com/030108ming/STRMSR)]
+
 [21] **K-Prism: A Knowledge-Guided and Prompt Integrated Universal Medical Image Segmentation Model**.<br />
 Bangwei Guo, Yunhe Gao, Meng Ye, Difei Gu, Yang Zhou, Leon Axel, Dimitris N. Metaxas.<br />
 In _International Conference on Learning Representations_ (***ICLR***), 2026. [[Code](https://github.com/bangwayne/K-Prism)]
