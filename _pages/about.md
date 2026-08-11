@@ -30,10 +30,10 @@ Our group is always looking for self-motivated and talent Ph.D. students to work
 # News
 <div style="max-height: 300px; overflow-y: auto;">
 <ul>
-  <li><em>2026.08:</em> &nbsp; 2 papers accepted to STACOM 2026. Both are orals!</li>
-  <li><em>2026.01:</em> &nbsp; 1 paper accepted to ICLR 2026. Congratulations to Bangwei!</li>
+  <li><em>2026.08:</em> &nbsp; 2 papers accepted to STACOM 2026. Both are orals. Congrats to Shaoming and Chuhui!</li>
+  <li><em>2026.01:</em> &nbsp; 1 paper accepted to ICLR 2026. Congrats to Bangwei!</li>
   <li><em>2025.10:</em> &nbsp; Invited to serve as an area chair for <a href="https://2026.midl.io/">MIDL 2026</a>.</li>
-  <li><em>2025.09:</em> &nbsp; Two first-place awards (SSIM) for the CMRxRecon2025 challenge. Congratulations to Bingyu!</li>
+  <li><em>2025.09:</em> &nbsp; Two first-place awards (SSIM) for the CMRxRecon2025 challenge. Congrats to Bingyu!</li>
   <li><em>2025.08:</em> &nbsp; Shaoming and Chuhui joined in our group. Welcome!</li>
   <li><em>2025.08:</em> &nbsp; Started being an Assistant Professor of CSE Department at UTA.</li>
   <li><em>2025.03:</em> &nbsp; I will be an Assistant Professor of Computer Science Engineering Department at The University of Texas at Arlington starting from Fall 2025.</li>
@@ -49,7 +49,7 @@ External Ph.D. Students:
 - [Bangwei Guo](https://bangwayne.github.io/) (Rutgers CS) 
 
 Alumni:
-- [Bingyu Xin](https://hellopipu.github.io/) (Ph.D. Rutgers CS 2026, Now at Meta)
+- [Bingyu Xin](https://hellopipu.github.io/) (Ph.D. Rutgers CS 2026, First position: Meta)
 
 # Publications 
 [23] **Bi-PT: Bidirectional Cross-Attention Point Transformers for Four-Chamber Heart Reconstruction from Sparse Cardiac MRI Data**.<br />
