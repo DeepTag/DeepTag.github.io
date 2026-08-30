@@ -23,7 +23,7 @@ I lead the **CLIMB** group at UTA. Our group mainly focuses on novel AI methods 
 - **Computer vision and medical image computing**: image segmentation, motion tracking, image registration, image generation, 3D shape modeling and 4D dynamic analysis.
 - **Low level learning tasks and inverse problems**: image reconstruction, denoising and super resolution.
 - **Medical imaging**: novel MRI pulse sequences.
-- **Cardiac modeling**: simulation of the heart's function in both healthy and diseased states, including electrical conduction, mechanical contraction, and blood flow. 
+- **Cardiac digital twin**: simulation of the heart's function in both healthy and diseased states, including electrical conduction, mechanical contraction, and blood flow. 
 
 Our group is always looking for self-motivated and talent Ph.D. students to work on medical imaging, machine learning, computer vision and AI techniques for healthcare applications. Students with a background in Computer Science, Biomedical Engineering (especially for MRI pulse sequences), Electrical Engineering, Automation, or related fields are welcome to drop me an email with your CV and publications (if any). Please note I may not be able to respond to every message due to limited time. [[Flyer](https://drive.google.com/file/d/1Ns8hvAXAwldj_Mdr8pCjCH1ccQUury-j/view?usp=sharing)] [[UTA CSE Ph.D. Admission Requirements](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/phd)]
 
@@ -46,7 +46,8 @@ Ph.D. Students:
 - Shaoming Pan  (Starting in Fall 2025, Previous: BE, Shanghai Jiao Tong University)
 
 External Ph.D. Students:
-- [Bangwei Guo](https://bangwayne.github.io/) (Rutgers CS) 
+- [Bangwei Guo](https://bangwayne.github.io/) (Rutgers CS)
+- [Junpu Hu](https://scholar.google.com/citations?user=XDvTw20AAAAJ&hl=zh-CN) (UT South Western Medical Center BME) 
 
 Alumni:
 - [Bingyu Xin](https://hellopipu.github.io/) (Ph.D. Rutgers CS 2026, First position: Meta)
