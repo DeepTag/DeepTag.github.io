@@ -46,8 +46,8 @@ Ph.D. Students:
 - Shaoming Pan  (Starting in Fall 2025, Previous: BE, Shanghai Jiao Tong University)
 
 External Ph.D. Students:
+- [Junpu Hu](https://scholar.google.com/citations?user=XDvTw20AAAAJ&hl=zh-CN) (UT South Western Medical Center BME)
 - [Bangwei Guo](https://bangwayne.github.io/) (Rutgers CS)
-- [Junpu Hu](https://scholar.google.com/citations?user=XDvTw20AAAAJ&hl=zh-CN) (UT South Western Medical Center BME) 
 
 Alumni:
 - [Bingyu Xin](https://hellopipu.github.io/) (Ph.D. Rutgers CS 2026, First position: Meta)
