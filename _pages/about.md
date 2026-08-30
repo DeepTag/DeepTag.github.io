@@ -71,7 +71,7 @@ In ***arXiv preprint***, 2025. [[Paper](https://arxiv.org/abs/2411.15233)][[Proj
 
 [19] **Analysis of Cardiac Dynamic Global Function**.<br />
 Leon Axel, Mikael Kanski, Amit Jhaveri, Meng Ye, Bangwei Guo, Xiaoxiao He, Dimitris Metaxas.<br />
-In _Functional Imaging and Modeling of the Heart_ (***FIMH***), 2025.
+In _Functional Imaging and Modeling of the Heart_ (***FIMH***), 2025 and _JRSM Cardiovascular Disease_, 2026
  
 [18] **VerSe: Integrating Multiple Queries as Prompts for Versatile Cardiac MRI Segmentation**.<br />
 Bangwei Guo, Meng Ye, Yunhe Gao, Bingyu Xin, Leon Axel, Dimitris N. Metaxas.<br />
