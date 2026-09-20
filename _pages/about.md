@@ -54,12 +54,12 @@ Alumni:
 
 # Publications 
 [23] **Bi-PT: Bidirectional Cross-Attention Point Transformers for Four-Chamber Heart Reconstruction from Sparse Cardiac MRI Data**.<br />
-> Chenchuhui Hu, Shaoming Pan, Leon Axel, Meng Ye.<br />
-> In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2026. (<font color="#f03c15">Oral</font>\) [[Code](https://github.com/Chenchuhui/Bi-PT)]
+>Chenchuhui Hu, Shaoming Pan, Leon Axel, Meng Ye.<br />
+>In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2026. (<font color="#f03c15">Oral</font>\) [[Code](https://github.com/Chenchuhui/Bi-PT)]
 
 [22] **Cardiac MRI Through-Plane Super-Resolution Guided by Reference and Memory**.<br />
 >Shaoming Pan, Chenchuhui Hu, Leon Axel, Meng Ye.<br />
-> In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2026. [[Code](https://github.com/030108ming/STRMSR)]
+>In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2026. [[Code](https://github.com/030108ming/STRMSR)]
 
 [21] **K-Prism: A Knowledge-Guided and Prompt Integrated Universal Medical Image Segmentation Model**.<br />
 Bangwei Guo, Yunhe Gao, Meng Ye, Difei Gu, Yang Zhou, Leon Axel, Dimitris N. Metaxas.<br />
