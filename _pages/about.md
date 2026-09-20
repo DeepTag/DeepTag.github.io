@@ -17,12 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Assistant Professor of Computer Science and Engineering at The University of Texas at Arlington (UTA). I received my Ph.D. from the Department of Computer Science at Rutgers University, advised by Distinguished Professor Dimitris N. Metaxas. Before that, I received my M.E. Degree from Tsinghua University and B.E. Degree from North China Electric Power University, both in Beijing, China. I have a solid technical background in [cardiac MRI](https://cardiacmri.com/tech-guide/imaging-sequences).
-
-I lead the **CLIMB** group at UTA. Our group mainly focuses on novel AI methods of **C**omputing, **L**earning, **I**maging and **M**odeling for **B**iomedicine, with a special interest in the human heart. Current involved research projects are:
+I am currently an Assistant Professor of Computer Science and Engineering at The University of Texas at Arlington (UTA). I received my Ph.D. from the Department of Computer Science at Rutgers University. I lead the **CLIMB** group at UTA. Our group mainly focuses on novel AI methods of **C**omputing, **L**earning, **I**maging and **M**odeling for **B**iomedicine, with a special interest in the human heart. Current involved research projects are:
 - **Computer vision and medical image computing**: image segmentation, motion tracking, image registration, image generation, 3D shape modeling and 4D dynamic analysis.
 - **Low level learning tasks and inverse problems**: image reconstruction, denoising and super resolution.
-- **Medical imaging**: novel MRI pulse sequences.
+- **Medical imaging**: novel MRI pulse sequences[cardiac MRI](https://cardiacmri.com/tech-guide/imaging-sequences).
 - **Cardiac digital twin**: simulation of the heart's function in both healthy and diseased states, including electrical conduction, mechanical contraction, and blood flow. 
 
 Our group is always looking for self-motivated and talent Ph.D. students to work on medical imaging, machine learning, computer vision and AI techniques for healthcare applications. Students with a background in Computer Science, Biomedical Engineering (especially for MRI pulse sequences), Electrical Engineering, Automation, or related fields are welcome to drop me an email with your CV and publications (if any). Please note I may not be able to respond to every message due to limited time. [[Flyer](https://drive.google.com/file/d/1Ns8hvAXAwldj_Mdr8pCjCH1ccQUury-j/view?usp=sharing)] [[UTA CSE Ph.D. Admission Requirements](https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse/phd)]
@@ -152,8 +150,6 @@ In _Joint Annual Meeting_ ***ISMRM-ESMRMB***, 2018. [[Poster](https://cds.ismrm.
 
 # Educations
 - *2019.09 - 2025.06*, Ph.D. Computer Science, Rutgers University, New Brunswick, NJ, USA.
-- *2013.09 - 2016.06*, M.E. Biomedical Engineering, Tsinghua University, Beijing, China.
-- *2007.09 - 2011.06*, B.E. Nuclear Science and Engineering, North China Electric Power University, Beijing, China.
 
 # Invited Talks
 - *2025.02*, AI-Driven Correspondence Learning for Dynamic Heart Function Analysis Using MRI. Job talk, UTA.
