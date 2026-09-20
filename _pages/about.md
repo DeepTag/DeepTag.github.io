@@ -61,9 +61,12 @@ Alumni:
 >Shaoming Pan, Chenchuhui Hu, Leon Axel, Meng Ye.<br />
 >In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2026. [[Code](https://github.com/030108ming/STRMSR)]
 
-[21] * **K-Prism: A Knowledge-Guided and Prompt Integrated Universal Medical Image Segmentation Model**.<br />
-    Bangwei Guo, Yunhe Gao, Meng Ye, Difei Gu, Yang Zhou, Leon Axel, Dimitris N. Metaxas.<br />
+[21] **K-Prism: A Knowledge-Guided and Prompt Integrated Universal Medical Image Segmentation Model**.<br />
+Bangwei Guo, Yunhe Gao, Meng Ye, Difei Gu, Yang Zhou, Leon Axel, Dimitris N. Metaxas.<br />
 In _International Conference on Learning Representations_ (***ICLR***), 2026. [[Code](https://github.com/bangwayne/K-Prism)]
+<dl>
+<dd>In _International Conference on Learning Representations_ (***ICLR***), 2026. [[Code](https://github.com/bangwayne/K-Prism)]</dd>
+</dl>
 
 [20] **Learning Volumetric Neural Deformable Models to Recover 3D Regional Heart Wall Motion from Multi-Planar Tagged MRI**.<br />
 Meng Ye, Bingyu Xin, Bangwei Guo, Leon Axel, Dimitris N. Metaxas.<br />
