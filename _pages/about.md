@@ -58,12 +58,8 @@ Alumni:
 > In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2026. (<font color="#f03c15">Oral</font>\) [[Code](https://github.com/Chenchuhui/Bi-PT)]
 
 [22] **Cardiac MRI Through-Plane Super-Resolution Guided by Reference and Memory**.<br />
-<dl>
-<dd>Shaoming Pan, Chenchuhui Hu, Leon Axel, Meng Ye.<br />
-</dl>
-<dl>
-<dd>In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2026. [[Code](https://github.com/030108ming/STRMSR)]
-</dl>
+>Shaoming Pan, Chenchuhui Hu, Leon Axel, Meng Ye.<br />
+> In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2026. [[Code](https://github.com/030108ming/STRMSR)]
 
 [21] **K-Prism: A Knowledge-Guided and Prompt Integrated Universal Medical Image Segmentation Model**.<br />
 Bangwei Guo, Yunhe Gao, Meng Ye, Difei Gu, Yang Zhou, Leon Axel, Dimitris N. Metaxas.<br />
