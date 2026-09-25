@@ -28,6 +28,7 @@ Our group is always looking for self-motivated and talent Ph.D. students to work
 # News
 <div style="max-height: 300px; overflow-y: auto;">
 <ul>
+  <li><em>2026.01:</em> &nbsp; 1 paper accepted to NeurIPS 2026. Congrats to Bangwei!</li>
   <li><em>2026.08:</em> &nbsp; 2 papers accepted to STACOM 2026. One is oral. Congrats to Shaoming and Chuhui!</li>
   <li><em>2026.01:</em> &nbsp; 1 paper accepted to ICLR 2026. Congrats to Bangwei!</li>
   <li><em>2025.10:</em> &nbsp; Invited to serve as an area chair for <a href="https://2026.midl.io/">MIDL 2026</a>.</li>
@@ -51,6 +52,10 @@ Alumni:
 - [Bingyu Xin](https://hellopipu.github.io/) (Ph.D. Rutgers CS 2026, First position: Meta)
 
 # Publications 
+[24] **UniPro: Unified Multi-Mode Medical Image Segmentation from 2D Images to 3D Volumes via Propagation**.<br />
+Bangwei Guo, Yunhe Gao, Meng Ye, Yang Zhou, Difei Gu, Guoning Zhang, Leon Axel, Dimitris N. Metaxas.<br />
+In _International Conference on Learning Representations_ (***NeurIPS***), 2026. 
+
 [23] **Bi-PT: Bidirectional Cross-Attention Point Transformers for Four-Chamber Heart Reconstruction from Sparse Cardiac MRI Data**.<br />
 Chenchuhui Hu, Shaoming Pan, Leon Axel, Meng Ye.<br />
 In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2026. (<font color="#f03c15">Oral</font>\) [[Code](https://github.com/Chenchuhui/Bi-PT)]
