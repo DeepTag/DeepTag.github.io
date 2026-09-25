@@ -28,7 +28,7 @@ Our group is always looking for self-motivated and talent Ph.D. students to work
 # News
 <div style="max-height: 300px; overflow-y: auto;">
 <ul>
-  <li><em>2026.01:</em> &nbsp; 1 paper accepted to NeurIPS 2026. Congrats to Bangwei!</li>
+  <li><em>2026.09:</em> &nbsp; 1 paper accepted to NeurIPS 2026. Congrats to Bangwei!</li>
   <li><em>2026.08:</em> &nbsp; 2 papers accepted to STACOM 2026. One is oral. Congrats to Shaoming and Chuhui!</li>
   <li><em>2026.01:</em> &nbsp; 1 paper accepted to ICLR 2026. Congrats to Bangwei!</li>
   <li><em>2025.10:</em> &nbsp; Invited to serve as an area chair for <a href="https://2026.midl.io/">MIDL 2026</a>.</li>
