@@ -52,7 +52,7 @@ Alumni:
 - [Bingyu Xin](https://hellopipu.github.io/) (Ph.D. Rutgers CS 2026, First position: Meta)
 
 # Publications 
--[24] **UniPro: Unified Multi-Mode Medical Image Segmentation from 2D Images to 3D Volumes via Propagation**.<br />
+- [24] **UniPro: Unified Multi-Mode Medical Image Segmentation from 2D Images to 3D Volumes via Propagation**.<br />
 - Bangwei Guo, Yunhe Gao, Meng Ye, Yang Zhou, Difei Gu, Guoning Zhang, Leon Axel, Dimitris N. Metaxas.<br />
 - In _The Fortieth Annual Conference on Neural Information Processing Systems_ (***NeurIPS***), 2026. 
 
@@ -92,7 +92,7 @@ Alumni:
 - Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas.<br />
 - In _European Conference on Computer Vision_ (***ECCV***), 2024. (<font color="#f03c15">Oral</font>\) [[Code](https://github.com/hellopipu/PromptMR-plus)]
 
--[14] **Unsupervised Exemplar-Based Image-to-Image Translation and Cascaded Vision Transformers for Tagged and Untagged Cardiac Cine MRI Registration**.<br /> 
+- [14] **Unsupervised Exemplar-Based Image-to-Image Translation and Cascaded Vision Transformers for Tagged and Untagged Cardiac Cine MRI Registration**.<br /> 
 - Meng Ye, Mikael Kanski, Dong Yang, Leon Axel, Dimitris N. Metaxas.<br /> 
 - In _IEEE Winter Conference on Applications of Computer Vision_ (***WACV***), 2024. [[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Ye_Unsupervised_Exemplar-Based_Image-to-Image_Translation_and_Cascaded_Vision_Transformers_for_Tagged_WACV_2024_paper.html)] [[Project page](https://github.com/DeepTag/ECaT)]
 
