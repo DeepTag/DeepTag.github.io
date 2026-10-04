@@ -81,8 +81,8 @@ Bangwei Guo, Meng Ye, Yunhe Gao, Bingyu Xin, Leon Axel, Dimitris N. Metaxas.<br 
 In _Information Processing in Medical Imaging_ (***IPMI***), 2025. [[Code](https://github.com/bangwayne/verse)]
 
 [17] **Continuous Spatio-Temporal Memory Networks for 4D Cardiac Cine MRI Segmentation**.<br />
-Meng Ye, Bingyu Xin, Leon Axel, Dimitris N. Metaxas.<br />
-In _IEEE Winter Conference on Applications of Computer Vision_ (***WACV***), 2025. [[Paper](https://arxiv.org/abs/2410.23191)] [[Project page](https://github.com/DeepTag/CSTM)]
+- [ ] Meng Ye, Bingyu Xin, Leon Axel, Dimitris N. Metaxas.<br />
+- [ ] In _IEEE Winter Conference on Applications of Computer Vision_ (***WACV***), 2025. [[Paper](https://arxiv.org/abs/2410.23191)] [[Project page](https://github.com/DeepTag/CSTM)]
 
 [16] **Enhanced Deep Unrolled Models Applied to the CMRxRecon2024 Challenge**.<br /> 
 - Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas.<br />
