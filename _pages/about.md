@@ -85,8 +85,8 @@ Meng Ye, Bingyu Xin, Leon Axel, Dimitris N. Metaxas.<br />
 In _IEEE Winter Conference on Applications of Computer Vision_ (***WACV***), 2025. [[Paper](https://arxiv.org/abs/2410.23191)] [[Project page](https://github.com/DeepTag/CSTM)]
 
 [16] **Enhanced Deep Unrolled Models Applied to the CMRxRecon2024 Challenge**.<br /> 
-Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas.<br />
-In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2024.(<font color="#f03c15">Double winner of CMRxRecon 2024</font>\)[[News](https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024)]
+&emsp;&emsp;Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas.<br />
+&emsp;&emsp;In _International Conference on Medical Image Computing and Computer Assisted Intervention_ (***MICCAI***) _Workshop_ ***STACOM***, 2024.(<font color="#f03c15">Double winner of CMRxRecon 2024</font>\)[[News](https://www.cs.rutgers.edu/news-events/news/news-item/cs-ph-d-students-bingyu-xin-and-meng-ye-win-first-place-at-miccai-2024)]
 
 [15] **Rethinking Deep Unrolled Model for Accelerated MRI Reconstruction**.<br />
 Bingyu Xin, Meng Ye, Leon Axel, Dimitris N. Metaxas.<br />
