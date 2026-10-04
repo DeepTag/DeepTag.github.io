@@ -52,9 +52,7 @@ Alumni:
 - [Bingyu Xin](https://hellopipu.github.io/) (Ph.D. Rutgers CS 2026, First position: Meta)
 
 # Publications 
-[24] **UniPro: Unified Multi-Mode Medical Image Segmentation from 2D Images to 3D Volumes via Propagation**.<br />
-- Bangwei Guo, Yunhe Gao, Meng Ye, Yang Zhou, Difei Gu, Guoning Zhang, Leon Axel, Dimitris N. Metaxas.<br />
-- In _The Fortieth Annual Conference on Neural Information Processing Systems_ (***NeurIPS***), 2026. 
+- [24] **UniPro: Unified Multi-Mode Medical Image Segmentation from 2D Images to 3D Volumes via Propagation**. Bangwei Guo, Yunhe Gao, Meng Ye, Yang Zhou, Difei Gu, Guoning Zhang, Leon Axel, Dimitris N. Metaxas. In _The Fortieth Annual Conference on Neural Information Processing Systems_ (***NeurIPS***), 2026. 
 
 [23] **Bi-PT: Bidirectional Cross-Attention Point Transformers for Four-Chamber Heart Reconstruction from Sparse Cardiac MRI Data**.<br />
 - Chenchuhui Hu, Shaoming Pan, Leon Axel, Meng Ye.<br />
